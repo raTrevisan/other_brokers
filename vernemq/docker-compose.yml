@@ -44,7 +44,7 @@ services:
     command: dt-instance
 
   mqtt-broker:
-    image: "vernemq/vernemq"
+    image: "vernemq/vernemq:latest"
     networks:
       - default
     restart: always
