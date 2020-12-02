@@ -46,6 +46,10 @@ services:
     
   mqtt-broker:
     image: "emqx/emqx:latest"
+    environment:
+      -log.sync_mode_qlen = 99999
+      -log.drop_mode_qlen = 99999
+      -log.flush_qlen = 99999
     networks:
       - default
     restart: always
