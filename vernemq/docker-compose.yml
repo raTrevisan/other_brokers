@@ -45,6 +45,8 @@ services:
 
   mqtt-broker:
     image: "vernemq/vernemq:latest"
+     environment:
+      - DOCKER_VERNEMQ_SWARM:1
     networks:
       - default
     restart: always
