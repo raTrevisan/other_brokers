@@ -46,17 +46,15 @@ services:
     
   mqtt-broker:
     image: "emqx/emqx:latest"
-    environment:
-      -log.sync_mode_qlen = 99999
-      -log.drop_mode_qlen = 99999
-      -log.flush_qlen = 99999
     networks:
       - default
     restart: always
+    volumes: 
+      - ./emqx.conf:/opt/emqx/etc/emqx.conf
     deploy:
       placement:
         constraints:
-          - node.labels.name==fog2
+          - node.labels.name==cloud
 
   scylla-db:
     image: scylladb/scylla
