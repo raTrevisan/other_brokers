@@ -1,4 +1,7 @@
 version: '3'
+volumes:
+  vol-emqx-etc:
+    -./etc:opt/emqx/etc
 
 services:
   client:
