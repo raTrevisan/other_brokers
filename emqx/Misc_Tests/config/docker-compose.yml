@@ -1,7 +1,4 @@
 version: '3'
-volumes:
-  vol-emqx-etc:
-    -./etc:opt/emqx/etc/
 
 services:
   client:
@@ -54,7 +51,7 @@ services:
       - default
     restart: always
     volumes: 
-      - vol-emqx-etc:/opt/emqx/etc
+      - ./etc:/opt/emqx/etc
     deploy:
       placement:
         constraints:
