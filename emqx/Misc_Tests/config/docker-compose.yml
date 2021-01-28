@@ -1,7 +1,7 @@
 version: '3'
 volumes:
   vol-emqx-etc:
-    -./emqx.conf:opt/emqx/etc/emqx.conf
+    -.:opt/emqx/etc/
 
 services:
   client:
