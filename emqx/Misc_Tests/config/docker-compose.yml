@@ -49,6 +49,7 @@ services:
     image: "emqx/emqx:latest"
     environment:
       - EMQX_NAME=AAAAAA
+      - EMQX_NODE_PROCESS_LIMIT=2097153
     networks:
       - default
     restart: always
