@@ -47,11 +47,11 @@ services:
     
   mqtt-broker:
     image: "emqx/emqx:latest"
+    environment:
+      - EMQX_NAME=AAAAAA
     networks:
       - default
     restart: always
-    volumes: 
-      - ./etc/emqx.conf:/opt/emqx/etc/
     deploy:
       placement:
         constraints:
