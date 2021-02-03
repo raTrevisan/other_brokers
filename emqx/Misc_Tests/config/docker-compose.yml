@@ -51,7 +51,7 @@ services:
       - default
     restart: always
     volumes: 
-      - ./etc/Something.conf:/emqx/etc
+      - ./etc/emqx.conf:/opt/emqx/etc/
     deploy:
       placement:
         constraints:
