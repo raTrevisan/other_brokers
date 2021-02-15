@@ -50,7 +50,7 @@ services:
     environment:
       - EMQX_NODE__PROCESS_LIMIT=2097153
       - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
-      - EMQX_MQTT__MAX_PACKET_SIZE=64KB
+      - EMQX_ZONE__EXTERNAL__MAX_INFLIGHT=1000
     networks:
       - default
     restart: always
