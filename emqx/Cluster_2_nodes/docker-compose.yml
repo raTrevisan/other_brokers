@@ -49,16 +49,16 @@ services:
     image: "emqx/emqx:latest"
     environment:
       - EMQX_NAME=broker
-      - EMQX_HOST=emqx_n1
+      - EMQX_HOST=emqx_n1.mq.tt
       - EMQX_NODE__PROCESS_LIMIT=2097153
       - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
       - EMQX_MQTT__MAX_PACKET_SIZE=64KB
       - EMQX_CLUSTER__DISCOVERY=static
-      - EMQX_CLUSTER__STATIC__SEEDS=broker@emqx_n1, cluster@emqx_n2
+      - EMQX_CLUSTER__STATIC__SEEDS=broker@emqx_n1.mq.tt, cluster@emqx_n2.mq.tt
     networks:
       default:
         aliases:
-         - emqx_n1
+          - emqx_n1.mq.tt
     restart: always
     deploy:
       placement:
@@ -69,16 +69,16 @@ services:
     image: "emqx/emqx:latest"
     environment:
       - EMQX_NAME=cluster
-      - EMQX_HOST=emqx_n2
+      - EMQX_HOST=emqx_n2.mq.tt
       - EMQX_NODE__PROCESS_LIMIT=2097153
       - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
       - EMQX_MQTT__MAX_PACKET_SIZE=64KB
       - EMQX_CLUSTER__DISCOVERY=static
-      - EMQX_CLUSTER__STATIC__SEEDS=broker@emqx_n1, cluster@emqx_n2
+      - EMQX_CLUSTER__STATIC__SEEDS=broker@emqx_n1.mq.tt, cluster@emqx_n2.mq.tt
     networks:
       default:
         aliases:
-         - emqx_n2
+          - emqx_n2.mq.tt
     restart: always
     deploy:
       placement:
