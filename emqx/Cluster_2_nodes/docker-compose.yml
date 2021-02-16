@@ -58,7 +58,7 @@ services:
     networks:
       default:
         alisaes:
-        -emqx_n1
+         - emqx_n1
     restart: always
     deploy:
       placement:
@@ -78,7 +78,7 @@ services:
     networks:
       default:
         alisaes:
-        -emqx_n2
+         - emqx_n2
     restart: always
     deploy:
       placement:
@@ -97,3 +97,4 @@ services:
          - node.labels.name==cloud
 networks:
   default:
+    driver: bridge
