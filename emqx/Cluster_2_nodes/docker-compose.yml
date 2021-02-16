@@ -13,7 +13,7 @@ services:
       - MQTT_CLIENT_QOS=1
       - MQTT_CLIENT_BUFFER_BYTE_SIZE=64
       - MQTT_CLIENT_MESSAGES_TO_SEND=1000
-      - MQTT_CLIENT_MESSAGE_DELAY_MS=67
+      - MQTT_CLIENT_MESSAGE_DELAY_MS=10
       - MQTT_CLIENT_TOPIC=38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3
     networks:
       - default
@@ -57,7 +57,7 @@ services:
       - EMQX_CLUSTER__STATIC__SEEDS=broker@emqx_n1, cluster@emqx_n2
     networks:
       default:
-        alisaes:
+        aliases:
          - emqx_n1
     restart: always
     deploy:
@@ -77,7 +77,7 @@ services:
       - EMQX_CLUSTER__STATIC__SEEDS=broker@emqx_n1, cluster@emqx_n2
     networks:
       default:
-        alisaes:
+        aliases:
          - emqx_n2
     restart: always
     deploy:
@@ -97,4 +97,3 @@ services:
          - node.labels.name==cloud
 networks:
   default:
-    driver: bridge
