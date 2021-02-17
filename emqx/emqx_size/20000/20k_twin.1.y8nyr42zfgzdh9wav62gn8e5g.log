@@ -1,0 +1,425 @@
+2021-02-17T19:07:19.726632086Z  [2021-02-17T19:07:19Z INFO  dt_instance] Current Twin: 38162cb0-e585-43d7-b55d-5c240b2bfb7c
+2021-02-17T19:07:19.726692785Z  [2021-02-17T19:07:19Z INFO  dt_instance] Connecting to broker at mqtt-broker:1883
+2021-02-17T19:07:19.726706682Z  [2021-02-17T19:07:19Z INFO  dt_instance] Using default packet size of 10240 KB.
+2021-02-17T19:07:19.731602176Z  [2021-02-17T19:07:19Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:07:19.834366950Z  [2021-02-17T19:07:19Z INFO  dt_instance] SubAck { pkid: 1, return_codes: [QoS1] }
+2021-02-17T19:07:49.785104817Z  [2021-02-17T19:07:49Z ERROR dt_instance] Unhandled incoming.
+2021-02-17T19:08:19.787705521Z  [2021-02-17T19:08:19Z ERROR dt_instance] Unhandled incoming.
+2021-02-17T19:08:35.695392282Z  [2021-02-17T19:08:35Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:35.900965214Z  [2021-02-17T19:08:35Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:36.003614488Z  [2021-02-17T19:08:36Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:36.209501704Z  [2021-02-17T19:08:36Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:36.261014126Z  [2021-02-17T19:08:36Z INFO  dt_instance] SubAck { pkid: 2, return_codes: [QoS1] }
+2021-02-17T19:08:36.364284730Z  [2021-02-17T19:08:36Z INFO  dt_instance] SubAck { pkid: 3, return_codes: [QoS1] }
+2021-02-17T19:08:36.415639913Z  [2021-02-17T19:08:36Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:36.621828213Z  [2021-02-17T19:08:36Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:36.723846134Z  [2021-02-17T19:08:36Z INFO  dt_instance] SubAck { pkid: 4, return_codes: [QoS1] }
+2021-02-17T19:08:36.775687578Z  [2021-02-17T19:08:36Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:36.982575356Z  [2021-02-17T19:08:36Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:37.085059741Z  [2021-02-17T19:08:37Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:37.292338829Z  [2021-02-17T19:08:37Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:37.343760613Z  [2021-02-17T19:08:37Z INFO  dt_instance] SubAck { pkid: 5, return_codes: [QoS1] }
+2021-02-17T19:08:37.446927745Z  [2021-02-17T19:08:37Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:37.653037431Z  [2021-02-17T19:08:37Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:37.704523103Z  [2021-02-17T19:08:37Z INFO  dt_instance] SubAck { pkid: 6, return_codes: [QoS1] }
+2021-02-17T19:08:37.806783235Z  [2021-02-17T19:08:37Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:38.013243688Z  [2021-02-17T19:08:38Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:38.063882758Z  [2021-02-17T19:08:38Z INFO  dt_instance] SubAck { pkid: 7, return_codes: [QoS1] }
+2021-02-17T19:08:38.166005787Z  [2021-02-17T19:08:38Z INFO  dt_instance] SubAck { pkid: 8, return_codes: [QoS1] }
+2021-02-17T19:08:38.217103765Z  [2021-02-17T19:08:38Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:38.423132494Z  [2021-02-17T19:08:38Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:38.525898011Z  [2021-02-17T19:08:38Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:38.732686597Z  [2021-02-17T19:08:38Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:38.784020017Z  [2021-02-17T19:08:38Z INFO  dt_instance] SubAck { pkid: 9, return_codes: [QoS1] }
+2021-02-17T19:08:38.887306969Z  [2021-02-17T19:08:38Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:39.093999736Z  [2021-02-17T19:08:39Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:39.146100024Z  [2021-02-17T19:08:39Z INFO  dt_instance] SubAck { pkid: 10, return_codes: [QoS1] }
+2021-02-17T19:08:39.248092343Z  [2021-02-17T19:08:39Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:39.453673162Z  [2021-02-17T19:08:39Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:39.505230443Z  [2021-02-17T19:08:39Z INFO  dt_instance] SubAck { pkid: 11, return_codes: [QoS1] }
+2021-02-17T19:08:39.607723991Z  [2021-02-17T19:08:39Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:39.814686166Z  [2021-02-17T19:08:39Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:39.866137953Z  [2021-02-17T19:08:39Z INFO  dt_instance] SubAck { pkid: 12, return_codes: [QoS1] }
+2021-02-17T19:08:39.967913731Z  [2021-02-17T19:08:39Z INFO  dt_instance] SubAck { pkid: 13, return_codes: [QoS1] }
+2021-02-17T19:08:40.019159766Z  [2021-02-17T19:08:40Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:40.225946395Z  [2021-02-17T19:08:40Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:40.329906262Z  [2021-02-17T19:08:40Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:40.536175329Z  [2021-02-17T19:08:40Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:40.587687188Z  [2021-02-17T19:08:40Z INFO  dt_instance] SubAck { pkid: 14, return_codes: [QoS1] }
+2021-02-17T19:08:40.691456703Z  [2021-02-17T19:08:40Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:40.896138373Z  [2021-02-17T19:08:40Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:40.946712822Z  [2021-02-17T19:08:40Z INFO  dt_instance] SubAck { pkid: 15, return_codes: [QoS1] }
+2021-02-17T19:08:41.050597043Z  [2021-02-17T19:08:41Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:41.257557996Z  [2021-02-17T19:08:41Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:41.309105450Z  [2021-02-17T19:08:41Z INFO  dt_instance] SubAck { pkid: 16, return_codes: [QoS1] }
+2021-02-17T19:08:41.411468491Z  [2021-02-17T19:08:41Z INFO  dt_instance] SubAck { pkid: 17, return_codes: [QoS1] }
+2021-02-17T19:08:41.463603779Z  [2021-02-17T19:08:41Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:41.671074165Z  [2021-02-17T19:08:41Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:41.774859414Z  [2021-02-17T19:08:41Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:41.981595703Z  [2021-02-17T19:08:41Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:42.033082751Z  [2021-02-17T19:08:42Z INFO  dt_instance] SubAck { pkid: 18, return_codes: [QoS1] }
+2021-02-17T19:08:42.136898320Z  [2021-02-17T19:08:42Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:42.343446299Z  [2021-02-17T19:08:42Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:42.394057148Z  [2021-02-17T19:08:42Z INFO  dt_instance] SubAck { pkid: 19, return_codes: [QoS1] }
+2021-02-17T19:08:42.497063251Z  [2021-02-17T19:08:42Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:42.702411562Z  [2021-02-17T19:08:42Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:42.752990126Z  [2021-02-17T19:08:42Z INFO  dt_instance] SubAck { pkid: 20, return_codes: [QoS1] }
+2021-02-17T19:08:42.856340627Z  [2021-02-17T19:08:42Z INFO  dt_instance] SubAck { pkid: 21, return_codes: [QoS1] }
+2021-02-17T19:08:42.908068328Z  [2021-02-17T19:08:42Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:43.113368960Z  [2021-02-17T19:08:43Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:43.215375750Z  [2021-02-17T19:08:43Z INFO  dt_instance] SubAck { pkid: 22, return_codes: [QoS1] }
+2021-02-17T19:08:43.266930519Z  [2021-02-17T19:08:43Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:43.472631582Z  [2021-02-17T19:08:43Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:43.575377785Z  [2021-02-17T19:08:43Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:43.780225527Z  [2021-02-17T19:08:43Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:43.831074702Z  [2021-02-17T19:08:43Z INFO  dt_instance] SubAck { pkid: 23, return_codes: [QoS1] }
+2021-02-17T19:08:43.934848853Z  [2021-02-17T19:08:43Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:44.141343694Z  [2021-02-17T19:08:44Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:44.191824055Z  [2021-02-17T19:08:44Z INFO  dt_instance] SubAck { pkid: 24, return_codes: [QoS1] }
+2021-02-17T19:08:44.295773755Z  [2021-02-17T19:08:44Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:44.501139722Z  [2021-02-17T19:08:44Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:44.552570596Z  [2021-02-17T19:08:44Z INFO  dt_instance] SubAck { pkid: 25, return_codes: [QoS1] }
+2021-02-17T19:08:44.654487032Z  [2021-02-17T19:08:44Z INFO  dt_instance] SubAck { pkid: 26, return_codes: [QoS1] }
+2021-02-17T19:08:44.706647176Z  [2021-02-17T19:08:44Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:44.913158986Z  [2021-02-17T19:08:44Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:45.015842092Z  [2021-02-17T19:08:45Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:45.222712744Z  [2021-02-17T19:08:45Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:45.274408092Z  [2021-02-17T19:08:45Z INFO  dt_instance] SubAck { pkid: 27, return_codes: [QoS1] }
+2021-02-17T19:08:45.376221215Z  [2021-02-17T19:08:45Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:45.581672052Z  [2021-02-17T19:08:45Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:45.633197248Z  [2021-02-17T19:08:45Z INFO  dt_instance] SubAck { pkid: 28, return_codes: [QoS1] }
+2021-02-17T19:08:45.735655025Z  [2021-02-17T19:08:45Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:45.943080130Z  [2021-02-17T19:08:45Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:45.994386872Z  [2021-02-17T19:08:45Z INFO  dt_instance] SubAck { pkid: 29, return_codes: [QoS1] }
+2021-02-17T19:08:46.097854256Z  [2021-02-17T19:08:46Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:46.304982380Z  [2021-02-17T19:08:46Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:46.356650530Z  [2021-02-17T19:08:46Z INFO  dt_instance] SubAck { pkid: 30, return_codes: [QoS1] }
+2021-02-17T19:08:46.459561459Z  [2021-02-17T19:08:46Z INFO  dt_instance] SubAck { pkid: 31, return_codes: [QoS1] }
+2021-02-17T19:08:46.511611043Z  [2021-02-17T19:08:46Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:46.717545916Z  [2021-02-17T19:08:46Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:46.821663531Z  [2021-02-17T19:08:46Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:47.028319963Z  [2021-02-17T19:08:47Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:47.078965053Z  [2021-02-17T19:08:47Z INFO  dt_instance] SubAck { pkid: 32, return_codes: [QoS1] }
+2021-02-17T19:08:47.181433426Z  [2021-02-17T19:08:47Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:47.388589795Z  [2021-02-17T19:08:47Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:47.440580589Z  [2021-02-17T19:08:47Z INFO  dt_instance] SubAck { pkid: 33, return_codes: [QoS1] }
+2021-02-17T19:08:47.544166315Z  [2021-02-17T19:08:47Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:47.749296828Z  [2021-02-17T19:08:47Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:47.800206510Z  [2021-02-17T19:08:47Z INFO  dt_instance] SubAck { pkid: 34, return_codes: [QoS1] }
+2021-02-17T19:08:47.902928857Z  [2021-02-17T19:08:47Z INFO  dt_instance] SubAck { pkid: 35, return_codes: [QoS1] }
+2021-02-17T19:08:47.954499272Z  [2021-02-17T19:08:47Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:48.160307570Z  [2021-02-17T19:08:48Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:48.262173897Z  [2021-02-17T19:08:48Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:48.469451894Z  [2021-02-17T19:08:48Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:48.520013962Z  [2021-02-17T19:08:48Z INFO  dt_instance] SubAck { pkid: 36, return_codes: [QoS1] }
+2021-02-17T19:08:48.622434915Z  [2021-02-17T19:08:48Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:48.828740141Z  [2021-02-17T19:08:48Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:48.880463903Z  [2021-02-17T19:08:48Z INFO  dt_instance] SubAck { pkid: 37, return_codes: [QoS1] }
+2021-02-17T19:08:48.984798066Z  [2021-02-17T19:08:48Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:49.191316537Z  [2021-02-17T19:08:49Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:49.241822768Z  [2021-02-17T19:08:49Z INFO  dt_instance] SubAck { pkid: 38, return_codes: [QoS1] }
+2021-02-17T19:08:49.343903681Z  [2021-02-17T19:08:49Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:49.550587945Z  [2021-02-17T19:08:49Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:49.601433089Z  [2021-02-17T19:08:49Z INFO  dt_instance] SubAck { pkid: 39, return_codes: [QoS1] }
+2021-02-17T19:08:49.703572213Z  [2021-02-17T19:08:49Z INFO  dt_instance] SubAck { pkid: 40, return_codes: [QoS1] }
+2021-02-17T19:08:49.755930297Z  [2021-02-17T19:08:49Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:49.962061620Z  [2021-02-17T19:08:49Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:50.064368569Z  [2021-02-17T19:08:50Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:50.269843893Z  [2021-02-17T19:08:50Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:50.321725792Z  [2021-02-17T19:08:50Z INFO  dt_instance] SubAck { pkid: 41, return_codes: [QoS1] }
+2021-02-17T19:08:50.425904074Z  [2021-02-17T19:08:50Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:50.631955630Z  [2021-02-17T19:08:50Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:50.683449480Z  [2021-02-17T19:08:50Z INFO  dt_instance] SubAck { pkid: 42, return_codes: [QoS1] }
+2021-02-17T19:08:50.786507525Z  [2021-02-17T19:08:50Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:50.992538690Z  [2021-02-17T19:08:50Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:51.044021025Z  [2021-02-17T19:08:51Z INFO  dt_instance] SubAck { pkid: 43, return_codes: [QoS1] }
+2021-02-17T19:08:51.147405578Z  [2021-02-17T19:08:51Z INFO  dt_instance] SubAck { pkid: 44, return_codes: [QoS1] }
+2021-02-17T19:08:51.198756091Z  [2021-02-17T19:08:51Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:51.404321440Z  [2021-02-17T19:08:51Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:51.506708955Z  [2021-02-17T19:08:51Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:51.712759670Z  [2021-02-17T19:08:51Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:51.764454523Z  [2021-02-17T19:08:51Z INFO  dt_instance] SubAck { pkid: 45, return_codes: [QoS1] }
+2021-02-17T19:08:51.868471726Z  [2021-02-17T19:08:51Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:52.074499329Z  [2021-02-17T19:08:52Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:52.126066844Z  [2021-02-17T19:08:52Z INFO  dt_instance] SubAck { pkid: 46, return_codes: [QoS1] }
+2021-02-17T19:08:52.229431640Z  [2021-02-17T19:08:52Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:52.435803085Z  [2021-02-17T19:08:52Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:52.486381418Z  [2021-02-17T19:08:52Z INFO  dt_instance] SubAck { pkid: 47, return_codes: [QoS1] }
+2021-02-17T19:08:52.589431255Z  [2021-02-17T19:08:52Z INFO  dt_instance] SubAck { pkid: 48, return_codes: [QoS1] }
+2021-02-17T19:08:52.641163278Z  [2021-02-17T19:08:52Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:52.847996723Z  [2021-02-17T19:08:52Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:52.951781103Z  [2021-02-17T19:08:52Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:53.159037350Z  [2021-02-17T19:08:53Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:53.210535333Z  [2021-02-17T19:08:53Z INFO  dt_instance] SubAck { pkid: 49, return_codes: [QoS1] }
+2021-02-17T19:08:53.313379502Z  [2021-02-17T19:08:53Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:53.519856532Z  [2021-02-17T19:08:53Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:53.571542498Z  [2021-02-17T19:08:53Z INFO  dt_instance] SubAck { pkid: 50, return_codes: [QoS1] }
+2021-02-17T19:08:53.675510185Z  [2021-02-17T19:08:53Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:53.881945931Z  [2021-02-17T19:08:53Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:53.933516997Z  [2021-02-17T19:08:53Z INFO  dt_instance] SubAck { pkid: 51, return_codes: [QoS1] }
+2021-02-17T19:08:54.036586321Z  [2021-02-17T19:08:54Z INFO  dt_instance] SubAck { pkid: 52, return_codes: [QoS1] }
+2021-02-17T19:08:54.088234743Z  [2021-02-17T19:08:54Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:54.293908802Z  [2021-02-17T19:08:54Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:54.396949964Z  [2021-02-17T19:08:54Z INFO  dt_instance] SubAck { pkid: 53, return_codes: [QoS1] }
+2021-02-17T19:08:54.448101322Z  [2021-02-17T19:08:54Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:54.653981652Z  [2021-02-17T19:08:54Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:54.756200065Z  [2021-02-17T19:08:54Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:54.961607438Z  [2021-02-17T19:08:54Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:55.013350079Z  [2021-02-17T19:08:55Z INFO  dt_instance] SubAck { pkid: 54, return_codes: [QoS1] }
+2021-02-17T19:08:55.114986307Z  [2021-02-17T19:08:55Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:55.320755866Z  [2021-02-17T19:08:55Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:55.372265045Z  [2021-02-17T19:08:55Z INFO  dt_instance] SubAck { pkid: 55, return_codes: [QoS1] }
+2021-02-17T19:08:55.474792759Z  [2021-02-17T19:08:55Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:55.681399424Z  [2021-02-17T19:08:55Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:55.731971785Z  [2021-02-17T19:08:55Z INFO  dt_instance] SubAck { pkid: 56, return_codes: [QoS1] }
+2021-02-17T19:08:55.834658064Z  [2021-02-17T19:08:55Z INFO  dt_instance] SubAck { pkid: 57, return_codes: [QoS1] }
+2021-02-17T19:08:55.886210545Z  [2021-02-17T19:08:55Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:56.092830797Z  [2021-02-17T19:08:56Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:56.195830096Z  [2021-02-17T19:08:56Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:56.402672700Z  [2021-02-17T19:08:56Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:56.454242325Z  [2021-02-17T19:08:56Z INFO  dt_instance] SubAck { pkid: 58, return_codes: [QoS1] }
+2021-02-17T19:08:56.556590160Z  [2021-02-17T19:08:56Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:56.763184815Z  [2021-02-17T19:08:56Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:56.814505525Z  [2021-02-17T19:08:56Z INFO  dt_instance] SubAck { pkid: 59, return_codes: [QoS1] }
+2021-02-17T19:08:56.917294472Z  [2021-02-17T19:08:56Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:57.122589545Z  [2021-02-17T19:08:57Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:57.174087197Z  [2021-02-17T19:08:57Z INFO  dt_instance] SubAck { pkid: 60, return_codes: [QoS1] }
+2021-02-17T19:08:57.276562624Z  [2021-02-17T19:08:57Z INFO  dt_instance] SubAck { pkid: 61, return_codes: [QoS1] }
+2021-02-17T19:08:57.328748558Z  [2021-02-17T19:08:57Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:57.534210474Z  [2021-02-17T19:08:57Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:57.635879042Z  [2021-02-17T19:08:57Z INFO  dt_instance] SubAck { pkid: 62, return_codes: [QoS1] }
+2021-02-17T19:08:57.687862728Z  [2021-02-17T19:08:57Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:57.894496339Z  [2021-02-17T19:08:57Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:57.997431862Z  [2021-02-17T19:08:57Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:58.204382569Z  [2021-02-17T19:08:58Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:58.254931027Z  [2021-02-17T19:08:58Z INFO  dt_instance] SubAck { pkid: 63, return_codes: [QoS1] }
+2021-02-17T19:08:58.358738435Z  [2021-02-17T19:08:58Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:58.564479853Z  [2021-02-17T19:08:58Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:58.615857973Z  [2021-02-17T19:08:58Z INFO  dt_instance] SubAck { pkid: 64, return_codes: [QoS1] }
+2021-02-17T19:08:58.719549986Z  [2021-02-17T19:08:58Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:58.925345385Z  [2021-02-17T19:08:58Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:58.975792321Z  [2021-02-17T19:08:58Z INFO  dt_instance] SubAck { pkid: 65, return_codes: [QoS1] }
+2021-02-17T19:08:59.078984685Z  [2021-02-17T19:08:59Z INFO  dt_instance] SubAck { pkid: 66, return_codes: [QoS1] }
+2021-02-17T19:08:59.130034132Z  [2021-02-17T19:08:59Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:59.336150557Z  [2021-02-17T19:08:59Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:59.439445780Z  [2021-02-17T19:08:59Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:08:59.645301750Z  [2021-02-17T19:08:59Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:08:59.695808352Z  [2021-02-17T19:08:59Z INFO  dt_instance] SubAck { pkid: 67, return_codes: [QoS1] }
+2021-02-17T19:08:59.799801943Z  [2021-02-17T19:08:59Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:00.006571892Z  [2021-02-17T19:09:00Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:00.057004231Z  [2021-02-17T19:09:00Z INFO  dt_instance] SubAck { pkid: 68, return_codes: [QoS1] }
+2021-02-17T19:09:00.159306417Z  [2021-02-17T19:09:00Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:00.365304257Z  [2021-02-17T19:09:00Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:00.415639569Z  [2021-02-17T19:09:00Z INFO  dt_instance] SubAck { pkid: 69, return_codes: [QoS1] }
+2021-02-17T19:09:00.518636551Z  [2021-02-17T19:09:00Z INFO  dt_instance] SubAck { pkid: 70, return_codes: [QoS1] }
+2021-02-17T19:09:00.570106429Z  [2021-02-17T19:09:00Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:00.775536900Z  [2021-02-17T19:09:00Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:00.878324956Z  [2021-02-17T19:09:00Z INFO  dt_instance] SubAck { pkid: 71, return_codes: [QoS1] }
+2021-02-17T19:09:00.930404477Z  [2021-02-17T19:09:00Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:01.135499406Z  [2021-02-17T19:09:01Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:01.238772189Z  [2021-02-17T19:09:01Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:01.443904121Z  [2021-02-17T19:09:01Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:01.495400562Z  [2021-02-17T19:09:01Z INFO  dt_instance] SubAck { pkid: 72, return_codes: [QoS1] }
+2021-02-17T19:09:01.598398817Z  [2021-02-17T19:09:01Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:01.803920300Z  [2021-02-17T19:09:01Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:01.855543868Z  [2021-02-17T19:09:01Z INFO  dt_instance] SubAck { pkid: 73, return_codes: [QoS1] }
+2021-02-17T19:09:01.958490374Z  [2021-02-17T19:09:01Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:02.163636402Z  [2021-02-17T19:09:02Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:02.215317704Z  [2021-02-17T19:09:02Z INFO  dt_instance] SubAck { pkid: 74, return_codes: [QoS1] }
+2021-02-17T19:09:02.316967926Z  [2021-02-17T19:09:02Z INFO  dt_instance] SubAck { pkid: 75, return_codes: [QoS1] }
+2021-02-17T19:09:02.368103572Z  [2021-02-17T19:09:02Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:02.573168776Z  [2021-02-17T19:09:02Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:02.675162838Z  [2021-02-17T19:09:02Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:02.884012602Z  [2021-02-17T19:09:02Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:02.935541127Z  [2021-02-17T19:09:02Z INFO  dt_instance] SubAck { pkid: 76, return_codes: [QoS1] }
+2021-02-17T19:09:03.038680960Z  [2021-02-17T19:09:03Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:03.244513397Z  [2021-02-17T19:09:03Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:03.296248382Z  [2021-02-17T19:09:03Z INFO  dt_instance] SubAck { pkid: 77, return_codes: [QoS1] }
+2021-02-17T19:09:03.398517593Z  [2021-02-17T19:09:03Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:03.604121999Z  [2021-02-17T19:09:03Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:03.655576214Z  [2021-02-17T19:09:03Z INFO  dt_instance] SubAck { pkid: 78, return_codes: [QoS1] }
+2021-02-17T19:09:03.759254986Z  [2021-02-17T19:09:03Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:03.965479608Z  [2021-02-17T19:09:03Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:04.017057867Z  [2021-02-17T19:09:04Z INFO  dt_instance] SubAck { pkid: 79, return_codes: [QoS1] }
+2021-02-17T19:09:04.120080063Z  [2021-02-17T19:09:04Z INFO  dt_instance] SubAck { pkid: 80, return_codes: [QoS1] }
+2021-02-17T19:09:04.171791782Z  [2021-02-17T19:09:04Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:04.378640846Z  [2021-02-17T19:09:04Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:04.481277500Z  [2021-02-17T19:09:04Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:04.687055921Z  [2021-02-17T19:09:04Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:04.738626776Z  [2021-02-17T19:09:04Z INFO  dt_instance] SubAck { pkid: 81, return_codes: [QoS1] }
+2021-02-17T19:09:04.842556468Z  [2021-02-17T19:09:04Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:05.048383170Z  [2021-02-17T19:09:05Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:05.099077789Z  [2021-02-17T19:09:05Z INFO  dt_instance] SubAck { pkid: 82, return_codes: [QoS1] }
+2021-02-17T19:09:05.202009987Z  [2021-02-17T19:09:05Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:05.407811401Z  [2021-02-17T19:09:05Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:05.459510830Z  [2021-02-17T19:09:05Z INFO  dt_instance] SubAck { pkid: 83, return_codes: [QoS1] }
+2021-02-17T19:09:05.562289783Z  [2021-02-17T19:09:05Z INFO  dt_instance] SubAck { pkid: 84, return_codes: [QoS1] }
+2021-02-17T19:09:05.613623466Z  [2021-02-17T19:09:05Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:05.819279005Z  [2021-02-17T19:09:05Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:05.921672498Z  [2021-02-17T19:09:05Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:06.127940411Z  [2021-02-17T19:09:06Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:06.179401142Z  [2021-02-17T19:09:06Z INFO  dt_instance] SubAck { pkid: 85, return_codes: [QoS1] }
+2021-02-17T19:09:06.283444540Z  [2021-02-17T19:09:06Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:06.490914140Z  [2021-02-17T19:09:06Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:06.542145238Z  [2021-02-17T19:09:06Z INFO  dt_instance] SubAck { pkid: 86, return_codes: [QoS1] }
+2021-02-17T19:09:06.644422645Z  [2021-02-17T19:09:06Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:06.851846437Z  [2021-02-17T19:09:06Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:06.903328959Z  [2021-02-17T19:09:06Z INFO  dt_instance] SubAck { pkid: 87, return_codes: [QoS1] }
+2021-02-17T19:09:07.005655765Z  [2021-02-17T19:09:07Z INFO  dt_instance] SubAck { pkid: 88, return_codes: [QoS1] }
+2021-02-17T19:09:07.057219810Z  [2021-02-17T19:09:07Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:07.265030250Z  [2021-02-17T19:09:07Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:07.368662008Z  [2021-02-17T19:09:07Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:07.576096060Z  [2021-02-17T19:09:07Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:07.627374168Z  [2021-02-17T19:09:07Z INFO  dt_instance] SubAck { pkid: 89, return_codes: [QoS1] }
+2021-02-17T19:09:07.729059152Z  [2021-02-17T19:09:07Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:07.935737050Z  [2021-02-17T19:09:07Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:07.987182887Z  [2021-02-17T19:09:07Z INFO  dt_instance] SubAck { pkid: 90, return_codes: [QoS1] }
+2021-02-17T19:09:08.089343378Z  [2021-02-17T19:09:08Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:08.295222481Z  [2021-02-17T19:09:08Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:08.345826195Z  [2021-02-17T19:09:08Z INFO  dt_instance] SubAck { pkid: 91, return_codes: [QoS1] }
+2021-02-17T19:09:08.448962742Z  [2021-02-17T19:09:08Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:08.655940875Z  [2021-02-17T19:09:08Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:08.707185196Z  [2021-02-17T19:09:08Z INFO  dt_instance] SubAck { pkid: 92, return_codes: [QoS1] }
+2021-02-17T19:09:08.809303662Z  [2021-02-17T19:09:08Z INFO  dt_instance] SubAck { pkid: 93, return_codes: [QoS1] }
+2021-02-17T19:09:08.862575943Z  [2021-02-17T19:09:08Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:09.067893465Z  [2021-02-17T19:09:09Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:09.171912997Z  [2021-02-17T19:09:09Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:09.379871131Z  [2021-02-17T19:09:09Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:09.430171096Z  [2021-02-17T19:09:09Z INFO  dt_instance] SubAck { pkid: 94, return_codes: [QoS1] }
+2021-02-17T19:09:09.532903254Z  [2021-02-17T19:09:09Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:09.739142549Z  [2021-02-17T19:09:09Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:09.790575667Z  [2021-02-17T19:09:09Z INFO  dt_instance] SubAck { pkid: 95, return_codes: [QoS1] }
+2021-02-17T19:09:09.893053132Z  [2021-02-17T19:09:09Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:10.097620992Z  [2021-02-17T19:09:10Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:10.149057662Z  [2021-02-17T19:09:10Z INFO  dt_instance] SubAck { pkid: 96, return_codes: [QoS1] }
+2021-02-17T19:09:10.250941658Z  [2021-02-17T19:09:10Z INFO  dt_instance] SubAck { pkid: 97, return_codes: [QoS1] }
+2021-02-17T19:09:10.301969585Z  [2021-02-17T19:09:10Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:10.507992887Z  [2021-02-17T19:09:10Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:10.611438171Z  [2021-02-17T19:09:10Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:10.818451168Z  [2021-02-17T19:09:10Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:10.869070818Z  [2021-02-17T19:09:10Z INFO  dt_instance] SubAck { pkid: 98, return_codes: [QoS1] }
+2021-02-17T19:09:10.972614527Z  [2021-02-17T19:09:10Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:11.178892816Z  [2021-02-17T19:09:11Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:11.230387772Z  [2021-02-17T19:09:11Z INFO  dt_instance] SubAck { pkid: 99, return_codes: [QoS1] }
+2021-02-17T19:09:11.333375513Z  [2021-02-17T19:09:11Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:11.540254145Z  [2021-02-17T19:09:11Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:11.590689732Z  [2021-02-17T19:09:11Z INFO  dt_instance] SubAck { pkid: 100, return_codes: [QoS1] }
+2021-02-17T19:09:11.693242022Z  [2021-02-17T19:09:11Z INFO  dt_instance] SubAck { pkid: 1, return_codes: [QoS1] }
+2021-02-17T19:09:11.744291137Z  [2021-02-17T19:09:11Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:11.948595746Z  [2021-02-17T19:09:11Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:12.051612570Z  [2021-02-17T19:09:12Z INFO  dt_instance] SubAck { pkid: 2, return_codes: [QoS1] }
+2021-02-17T19:09:12.103207707Z  [2021-02-17T19:09:12Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:12.309153944Z  [2021-02-17T19:09:12Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:12.412165985Z  [2021-02-17T19:09:12Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:12.617843393Z  [2021-02-17T19:09:12Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:12.669288050Z  [2021-02-17T19:09:12Z INFO  dt_instance] SubAck { pkid: 3, return_codes: [QoS1] }
+2021-02-17T19:09:12.771477840Z  [2021-02-17T19:09:12Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:12.980506505Z  [2021-02-17T19:09:12Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:13.032106850Z  [2021-02-17T19:09:13Z INFO  dt_instance] SubAck { pkid: 4, return_codes: [QoS1] }
+2021-02-17T19:09:13.134441391Z  [2021-02-17T19:09:13Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:13.341342836Z  [2021-02-17T19:09:13Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:13.391756201Z  [2021-02-17T19:09:13Z INFO  dt_instance] SubAck { pkid: 5, return_codes: [QoS1] }
+2021-02-17T19:09:13.494461763Z  [2021-02-17T19:09:13Z INFO  dt_instance] SubAck { pkid: 6, return_codes: [QoS1] }
+2021-02-17T19:09:13.546459489Z  [2021-02-17T19:09:13Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:13.753278890Z  [2021-02-17T19:09:13Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:13.856527106Z  [2021-02-17T19:09:13Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:14.063018909Z  [2021-02-17T19:09:14Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:14.114520375Z  [2021-02-17T19:09:14Z INFO  dt_instance] SubAck { pkid: 7, return_codes: [QoS1] }
+2021-02-17T19:09:14.217588697Z  [2021-02-17T19:09:14Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:14.424181476Z  [2021-02-17T19:09:14Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:14.475417335Z  [2021-02-17T19:09:14Z INFO  dt_instance] SubAck { pkid: 8, return_codes: [QoS1] }
+2021-02-17T19:09:14.578376644Z  [2021-02-17T19:09:14Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:14.784034740Z  [2021-02-17T19:09:14Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:14.835556214Z  [2021-02-17T19:09:14Z INFO  dt_instance] SubAck { pkid: 9, return_codes: [QoS1] }
+2021-02-17T19:09:14.938243831Z  [2021-02-17T19:09:14Z INFO  dt_instance] SubAck { pkid: 10, return_codes: [QoS1] }
+2021-02-17T19:09:14.989122908Z  [2021-02-17T19:09:14Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:15.194966560Z  [2021-02-17T19:09:15Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:15.296729850Z  [2021-02-17T19:09:15Z INFO  dt_instance] SubAck { pkid: 11, return_codes: [QoS1] }
+2021-02-17T19:09:15.348890948Z  [2021-02-17T19:09:15Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:15.555797636Z  [2021-02-17T19:09:15Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:15.659910550Z  [2021-02-17T19:09:15Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:15.867448918Z  [2021-02-17T19:09:15Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:15.918721276Z  [2021-02-17T19:09:15Z INFO  dt_instance] SubAck { pkid: 12, return_codes: [QoS1] }
+2021-02-17T19:09:16.021996366Z  [2021-02-17T19:09:16Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:16.227880482Z  [2021-02-17T19:09:16Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:16.279450446Z  [2021-02-17T19:09:16Z INFO  dt_instance] SubAck { pkid: 13, return_codes: [QoS1] }
+2021-02-17T19:09:16.382295725Z  [2021-02-17T19:09:16Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:16.588816949Z  [2021-02-17T19:09:16Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:16.640409944Z  [2021-02-17T19:09:16Z INFO  dt_instance] SubAck { pkid: 14, return_codes: [QoS1] }
+2021-02-17T19:09:16.742296890Z  [2021-02-17T19:09:16Z INFO  dt_instance] SubAck { pkid: 15, return_codes: [QoS1] }
+2021-02-17T19:09:16.794977413Z  [2021-02-17T19:09:16Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:17.004934437Z  [2021-02-17T19:09:17Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:17.108584818Z  [2021-02-17T19:09:17Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:17.314861477Z  [2021-02-17T19:09:17Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:17.366329876Z  [2021-02-17T19:09:17Z INFO  dt_instance] SubAck { pkid: 16, return_codes: [QoS1] }
+2021-02-17T19:09:17.469338788Z  [2021-02-17T19:09:17Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:17.676159728Z  [2021-02-17T19:09:17Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:17.726698109Z  [2021-02-17T19:09:17Z INFO  dt_instance] SubAck { pkid: 17, return_codes: [QoS1] }
+2021-02-17T19:09:17.830348180Z  [2021-02-17T19:09:17Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:18.035736274Z  [2021-02-17T19:09:18Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:18.087095307Z  [2021-02-17T19:09:18Z INFO  dt_instance] SubAck { pkid: 18, return_codes: [QoS1] }
+2021-02-17T19:09:18.188818111Z  [2021-02-17T19:09:18Z INFO  dt_instance] SubAck { pkid: 19, return_codes: [QoS1] }
+2021-02-17T19:09:18.239906907Z  [2021-02-17T19:09:18Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:18.446689557Z  [2021-02-17T19:09:18Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:18.549545473Z  [2021-02-17T19:09:18Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:18.756414831Z  [2021-02-17T19:09:18Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:18.806978808Z  [2021-02-17T19:09:18Z INFO  dt_instance] SubAck { pkid: 20, return_codes: [QoS1] }
+2021-02-17T19:09:18.910381543Z  [2021-02-17T19:09:18Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:19.116691865Z  [2021-02-17T19:09:19Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:19.168210836Z  [2021-02-17T19:09:19Z INFO  dt_instance] SubAck { pkid: 21, return_codes: [QoS1] }
+2021-02-17T19:09:19.272304981Z  [2021-02-17T19:09:19Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:19.479664910Z  [2021-02-17T19:09:19Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:19.530964105Z  [2021-02-17T19:09:19Z INFO  dt_instance] SubAck { pkid: 22, return_codes: [QoS1] }
+2021-02-17T19:09:19.633653040Z  [2021-02-17T19:09:19Z INFO  dt_instance] SubAck { pkid: 23, return_codes: [QoS1] }
+2021-02-17T19:09:19.685433710Z  [2021-02-17T19:09:19Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:19.892119421Z  [2021-02-17T19:09:19Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:19.995668292Z  [2021-02-17T19:09:19Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:20.203080431Z  [2021-02-17T19:09:20Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:20.253721430Z  [2021-02-17T19:09:20Z INFO  dt_instance] SubAck { pkid: 24, return_codes: [QoS1] }
+2021-02-17T19:09:20.357682170Z  [2021-02-17T19:09:20Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:20.565177751Z  [2021-02-17T19:09:20Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:20.616573037Z  [2021-02-17T19:09:20Z INFO  dt_instance] SubAck { pkid: 25, return_codes: [QoS1] }
+2021-02-17T19:09:20.720681340Z  [2021-02-17T19:09:20Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:20.927117120Z  [2021-02-17T19:09:20Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:20.978509465Z  [2021-02-17T19:09:20Z INFO  dt_instance] SubAck { pkid: 26, return_codes: [QoS1] }
+2021-02-17T19:09:21.081411192Z  [2021-02-17T19:09:21Z INFO  dt_instance] SubAck { pkid: 27, return_codes: [QoS1] }
+2021-02-17T19:09:21.132963409Z  [2021-02-17T19:09:21Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:21.340185127Z  [2021-02-17T19:09:21Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:21.443275911Z  [2021-02-17T19:09:21Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:21.648514033Z  [2021-02-17T19:09:21Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:21.699774039Z  [2021-02-17T19:09:21Z INFO  dt_instance] SubAck { pkid: 28, return_codes: [QoS1] }
+2021-02-17T19:09:21.801979498Z  [2021-02-17T19:09:21Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:22.008399320Z  [2021-02-17T19:09:22Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:22.059072152Z  [2021-02-17T19:09:22Z INFO  dt_instance] SubAck { pkid: 29, return_codes: [QoS1] }
+2021-02-17T19:09:22.161561440Z  [2021-02-17T19:09:22Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:22.368741505Z  [2021-02-17T19:09:22Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:22.420153893Z  [2021-02-17T19:09:22Z INFO  dt_instance] SubAck { pkid: 30, return_codes: [QoS1] }
+2021-02-17T19:09:22.523400143Z  [2021-02-17T19:09:22Z INFO  dt_instance] SubAck { pkid: 31, return_codes: [QoS1] }
+2021-02-17T19:09:22.575489153Z  [2021-02-17T19:09:22Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:22.781341176Z  [2021-02-17T19:09:22Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:22.883112766Z  [2021-02-17T19:09:22Z INFO  dt_instance] SubAck { pkid: 32, return_codes: [QoS1] }
+2021-02-17T19:09:22.933852315Z  [2021-02-17T19:09:22Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:23.139856777Z  [2021-02-17T19:09:23Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:23.241908826Z  [2021-02-17T19:09:23Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:23.449227479Z  [2021-02-17T19:09:23Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:23.500527536Z  [2021-02-17T19:09:23Z INFO  dt_instance] SubAck { pkid: 33, return_codes: [QoS1] }
+2021-02-17T19:09:23.604206905Z  [2021-02-17T19:09:23Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:23.810722595Z  [2021-02-17T19:09:23Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:23.862278322Z  [2021-02-17T19:09:23Z INFO  dt_instance] SubAck { pkid: 34, return_codes: [QoS1] }
+2021-02-17T19:09:23.966224542Z  [2021-02-17T19:09:23Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:24.172380392Z  [2021-02-17T19:09:24Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:24.224362237Z  [2021-02-17T19:09:24Z INFO  dt_instance] SubAck { pkid: 35, return_codes: [QoS1] }
+2021-02-17T19:09:24.327381998Z  [2021-02-17T19:09:24Z INFO  dt_instance] SubAck { pkid: 36, return_codes: [QoS1] }
+2021-02-17T19:09:24.379486108Z  [2021-02-17T19:09:24Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:24.586867794Z  [2021-02-17T19:09:24Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:24.690265169Z  [2021-02-17T19:09:24Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:24.896419505Z  [2021-02-17T19:09:24Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:24.948115840Z  [2021-02-17T19:09:24Z INFO  dt_instance] SubAck { pkid: 37, return_codes: [QoS1] }
+2021-02-17T19:09:25.051424466Z  [2021-02-17T19:09:25Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:25.258122641Z  [2021-02-17T19:09:25Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:25.308721406Z  [2021-02-17T19:09:25Z INFO  dt_instance] SubAck { pkid: 38, return_codes: [QoS1] }
+2021-02-17T19:09:25.412564182Z  [2021-02-17T19:09:25Z ERROR dt_instance] MQTT ERROR: MqttState(Serialization(PayloadSizeLimitExceeded))
+2021-02-17T19:09:25.621950386Z  [2021-02-17T19:09:25Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+
+2021-02-17T19:09:25.673146998Z  [2021-02-17T19:09:25Z INFO  dt_instance] SubAck { pkid: 39, return_codes: [QoS1] }
+2021-02-17T19:09:25.775385216Z  [2021-02-17T19:09:25Z INFO  dt_instance] SubAck { pkid: 40, return_codes: [QoS1] }
+2021-02-17T19:09:55.675520481Z  [2021-02-17T19:09:55Z ERROR dt_instance] Unhandled incoming.
