@@ -1,0 +1,1262 @@
+2021-02-17T20:18:34.505599518Z  [2021-02-17T20:18:34Z INFO  dt_instance] Current Twin: A
+2021-02-17T20:18:34.505644531Z  [2021-02-17T20:18:34Z INFO  dt_instance] Connecting to broker at mqtt-broker:1883
+2021-02-17T20:18:34.505660184Z  [2021-02-17T20:18:34Z INFO  dt_instance] Using default packet size of 10240 KB.
+2021-02-17T20:18:34.509485638Z  [2021-02-17T20:18:34Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:34.611808669Z  [2021-02-17T20:18:34Z INFO  dt_instance] SubAck { pkid: 1, return_codes: [QoS1] }
+2021-02-17T20:18:34.713571727Z  [2021-02-17T20:18:34Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:34.920531344Z  [2021-02-17T20:18:34Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:35.023281988Z  [2021-02-17T20:18:35Z INFO  dt_instance] SubAck { pkid: 2, return_codes: [QoS1] }
+2021-02-17T20:18:35.125845031Z  [2021-02-17T20:18:35Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:35.331860924Z  [2021-02-17T20:18:35Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:35.435354139Z  [2021-02-17T20:18:35Z INFO  dt_instance] SubAck { pkid: 3, return_codes: [QoS1] }
+2021-02-17T20:18:35.537257489Z  [2021-02-17T20:18:35Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:35.744410153Z  [2021-02-17T20:18:35Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:35.846832682Z  [2021-02-17T20:18:35Z INFO  dt_instance] SubAck { pkid: 4, return_codes: [QoS1] }
+2021-02-17T20:18:35.949933855Z  [2021-02-17T20:18:35Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:36.156316656Z  [2021-02-17T20:18:36Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:36.259075473Z  [2021-02-17T20:18:36Z INFO  dt_instance] SubAck { pkid: 5, return_codes: [QoS1] }
+2021-02-17T20:18:36.361108222Z  [2021-02-17T20:18:36Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:36.568548851Z  [2021-02-17T20:18:36Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:36.670955152Z  [2021-02-17T20:18:36Z INFO  dt_instance] SubAck { pkid: 6, return_codes: [QoS1] }
+2021-02-17T20:18:36.773831773Z  [2021-02-17T20:18:36Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:36.981078755Z  [2021-02-17T20:18:36Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:37.082711002Z  [2021-02-17T20:18:37Z INFO  dt_instance] SubAck { pkid: 7, return_codes: [QoS1] }
+2021-02-17T20:18:37.186360759Z  [2021-02-17T20:18:37Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:37.392803575Z  [2021-02-17T20:18:37Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:37.495707265Z  [2021-02-17T20:18:37Z INFO  dt_instance] SubAck { pkid: 8, return_codes: [QoS1] }
+2021-02-17T20:18:37.599146190Z  [2021-02-17T20:18:37Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:37.806807421Z  [2021-02-17T20:18:37Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:37.908220356Z  [2021-02-17T20:18:37Z INFO  dt_instance] SubAck { pkid: 9, return_codes: [QoS1] }
+2021-02-17T20:18:38.010271992Z  [2021-02-17T20:18:38Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:38.218039271Z  [2021-02-17T20:18:38Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:38.320877210Z  [2021-02-17T20:18:38Z INFO  dt_instance] SubAck { pkid: 10, return_codes: [QoS1] }
+2021-02-17T20:18:38.423686587Z  [2021-02-17T20:18:38Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:38.631778424Z  [2021-02-17T20:18:38Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:38.734615072Z  [2021-02-17T20:18:38Z INFO  dt_instance] SubAck { pkid: 11, return_codes: [QoS1] }
+2021-02-17T20:18:38.836201720Z  [2021-02-17T20:18:38Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:39.044297426Z  [2021-02-17T20:18:39Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:39.145871240Z  [2021-02-17T20:18:39Z INFO  dt_instance] SubAck { pkid: 12, return_codes: [QoS1] }
+2021-02-17T20:18:39.250660814Z  [2021-02-17T20:18:39Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:39.457333369Z  [2021-02-17T20:18:39Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:39.560851486Z  [2021-02-17T20:18:39Z INFO  dt_instance] SubAck { pkid: 13, return_codes: [QoS1] }
+2021-02-17T20:18:39.662592998Z  [2021-02-17T20:18:39Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:39.870136176Z  [2021-02-17T20:18:39Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:39.971922090Z  [2021-02-17T20:18:39Z INFO  dt_instance] SubAck { pkid: 14, return_codes: [QoS1] }
+2021-02-17T20:18:40.074663981Z  [2021-02-17T20:18:40Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:40.283154622Z  [2021-02-17T20:18:40Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:40.384756170Z  [2021-02-17T20:18:40Z INFO  dt_instance] SubAck { pkid: 15, return_codes: [QoS1] }
+2021-02-17T20:18:40.487452761Z  [2021-02-17T20:18:40Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:40.694079916Z  [2021-02-17T20:18:40Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:40.795775588Z  [2021-02-17T20:18:40Z INFO  dt_instance] SubAck { pkid: 16, return_codes: [QoS1] }
+2021-02-17T20:18:40.899113607Z  [2021-02-17T20:18:40Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:41.105597984Z  [2021-02-17T20:18:41Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:41.208316248Z  [2021-02-17T20:18:41Z INFO  dt_instance] SubAck { pkid: 17, return_codes: [QoS1] }
+2021-02-17T20:18:41.311626743Z  [2021-02-17T20:18:41Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:41.518785743Z  [2021-02-17T20:18:41Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:41.621561042Z  [2021-02-17T20:18:41Z INFO  dt_instance] SubAck { pkid: 18, return_codes: [QoS1] }
+2021-02-17T20:18:41.725050608Z  [2021-02-17T20:18:41Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:41.933384852Z  [2021-02-17T20:18:41Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:42.036147972Z  [2021-02-17T20:18:42Z INFO  dt_instance] SubAck { pkid: 19, return_codes: [QoS1] }
+2021-02-17T20:18:42.139345703Z  [2021-02-17T20:18:42Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:42.346716359Z  [2021-02-17T20:18:42Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:42.449507896Z  [2021-02-17T20:18:42Z INFO  dt_instance] SubAck { pkid: 20, return_codes: [QoS1] }
+2021-02-17T20:18:42.552811084Z  [2021-02-17T20:18:42Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:42.759051855Z  [2021-02-17T20:18:42Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:42.861892914Z  [2021-02-17T20:18:42Z INFO  dt_instance] SubAck { pkid: 21, return_codes: [QoS1] }
+2021-02-17T20:18:42.962092576Z  [2021-02-17T20:18:42Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:43.168095576Z  [2021-02-17T20:18:43Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:43.269728477Z  [2021-02-17T20:18:43Z INFO  dt_instance] SubAck { pkid: 22, return_codes: [QoS1] }
+2021-02-17T20:18:43.373576854Z  [2021-02-17T20:18:43Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:43.583694229Z  [2021-02-17T20:18:43Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:43.686688809Z  [2021-02-17T20:18:43Z INFO  dt_instance] SubAck { pkid: 23, return_codes: [QoS1] }
+2021-02-17T20:18:43.792369557Z  [2021-02-17T20:18:43Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:43.998850916Z  [2021-02-17T20:18:43Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:44.101530226Z  [2021-02-17T20:18:44Z INFO  dt_instance] SubAck { pkid: 24, return_codes: [QoS1] }
+2021-02-17T20:18:44.203995506Z  [2021-02-17T20:18:44Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:44.410619728Z  [2021-02-17T20:18:44Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:44.514377291Z  [2021-02-17T20:18:44Z INFO  dt_instance] SubAck { pkid: 25, return_codes: [QoS1] }
+2021-02-17T20:18:44.615262078Z  [2021-02-17T20:18:44Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:44.822145201Z  [2021-02-17T20:18:44Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:44.925182551Z  [2021-02-17T20:18:44Z INFO  dt_instance] SubAck { pkid: 26, return_codes: [QoS1] }
+2021-02-17T20:18:45.028170194Z  [2021-02-17T20:18:45Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:45.235380428Z  [2021-02-17T20:18:45Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:45.337987234Z  [2021-02-17T20:18:45Z INFO  dt_instance] SubAck { pkid: 27, return_codes: [QoS1] }
+2021-02-17T20:18:45.440682604Z  [2021-02-17T20:18:45Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:45.647811348Z  [2021-02-17T20:18:45Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:45.750893597Z  [2021-02-17T20:18:45Z INFO  dt_instance] SubAck { pkid: 28, return_codes: [QoS1] }
+2021-02-17T20:18:45.854041014Z  [2021-02-17T20:18:45Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:46.060768381Z  [2021-02-17T20:18:46Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:46.163786948Z  [2021-02-17T20:18:46Z INFO  dt_instance] SubAck { pkid: 29, return_codes: [QoS1] }
+2021-02-17T20:18:46.265612413Z  [2021-02-17T20:18:46Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:46.473217091Z  [2021-02-17T20:18:46Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:46.575084280Z  [2021-02-17T20:18:46Z INFO  dt_instance] SubAck { pkid: 30, return_codes: [QoS1] }
+2021-02-17T20:18:46.677625416Z  [2021-02-17T20:18:46Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:46.885965482Z  [2021-02-17T20:18:46Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:46.989009115Z  [2021-02-17T20:18:46Z INFO  dt_instance] SubAck { pkid: 31, return_codes: [QoS1] }
+2021-02-17T20:18:47.090099773Z  [2021-02-17T20:18:47Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:47.297123391Z  [2021-02-17T20:18:47Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:47.399122366Z  [2021-02-17T20:18:47Z INFO  dt_instance] SubAck { pkid: 32, return_codes: [QoS1] }
+2021-02-17T20:18:47.502215243Z  [2021-02-17T20:18:47Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:47.709742362Z  [2021-02-17T20:18:47Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:47.816142570Z  [2021-02-17T20:18:47Z INFO  dt_instance] SubAck { pkid: 33, return_codes: [QoS1] }
+2021-02-17T20:18:47.913604761Z  [2021-02-17T20:18:47Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:48.119982870Z  [2021-02-17T20:18:48Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:48.222060337Z  [2021-02-17T20:18:48Z INFO  dt_instance] SubAck { pkid: 34, return_codes: [QoS1] }
+2021-02-17T20:18:48.325226813Z  [2021-02-17T20:18:48Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:48.531594229Z  [2021-02-17T20:18:48Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:48.634128471Z  [2021-02-17T20:18:48Z INFO  dt_instance] SubAck { pkid: 35, return_codes: [QoS1] }
+2021-02-17T20:18:48.736306078Z  [2021-02-17T20:18:48Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:48.944079918Z  [2021-02-17T20:18:48Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:49.045910758Z  [2021-02-17T20:18:49Z INFO  dt_instance] SubAck { pkid: 36, return_codes: [QoS1] }
+2021-02-17T20:18:49.148591827Z  [2021-02-17T20:18:49Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:49.355460668Z  [2021-02-17T20:18:49Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:49.458089540Z  [2021-02-17T20:18:49Z INFO  dt_instance] SubAck { pkid: 37, return_codes: [QoS1] }
+2021-02-17T20:18:49.562059827Z  [2021-02-17T20:18:49Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:49.768305390Z  [2021-02-17T20:18:49Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:49.870477729Z  [2021-02-17T20:18:49Z INFO  dt_instance] SubAck { pkid: 38, return_codes: [QoS1] }
+2021-02-17T20:18:49.973611242Z  [2021-02-17T20:18:49Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:50.180281520Z  [2021-02-17T20:18:50Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:50.281540934Z  [2021-02-17T20:18:50Z INFO  dt_instance] SubAck { pkid: 39, return_codes: [QoS1] }
+2021-02-17T20:18:50.384984556Z  [2021-02-17T20:18:50Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:50.592446119Z  [2021-02-17T20:18:50Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:50.695172247Z  [2021-02-17T20:18:50Z INFO  dt_instance] SubAck { pkid: 40, return_codes: [QoS1] }
+2021-02-17T20:18:50.797945658Z  [2021-02-17T20:18:50Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:51.005824465Z  [2021-02-17T20:18:51Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:51.108916162Z  [2021-02-17T20:18:51Z INFO  dt_instance] SubAck { pkid: 41, return_codes: [QoS1] }
+2021-02-17T20:18:51.209694772Z  [2021-02-17T20:18:51Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:51.417324122Z  [2021-02-17T20:18:51Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:51.519030780Z  [2021-02-17T20:18:51Z INFO  dt_instance] SubAck { pkid: 42, return_codes: [QoS1] }
+2021-02-17T20:18:51.621978673Z  [2021-02-17T20:18:51Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:51.827842975Z  [2021-02-17T20:18:51Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:51.930737799Z  [2021-02-17T20:18:51Z INFO  dt_instance] SubAck { pkid: 43, return_codes: [QoS1] }
+2021-02-17T20:18:52.033373278Z  [2021-02-17T20:18:52Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:52.241075535Z  [2021-02-17T20:18:52Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:52.344066420Z  [2021-02-17T20:18:52Z INFO  dt_instance] SubAck { pkid: 44, return_codes: [QoS1] }
+2021-02-17T20:18:52.445841835Z  [2021-02-17T20:18:52Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:52.653336898Z  [2021-02-17T20:18:52Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:52.756342473Z  [2021-02-17T20:18:52Z INFO  dt_instance] SubAck { pkid: 45, return_codes: [QoS1] }
+2021-02-17T20:18:52.859230367Z  [2021-02-17T20:18:52Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:53.066410945Z  [2021-02-17T20:18:53Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:53.169132398Z  [2021-02-17T20:18:53Z INFO  dt_instance] SubAck { pkid: 46, return_codes: [QoS1] }
+2021-02-17T20:18:53.271966309Z  [2021-02-17T20:18:53Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:53.478452412Z  [2021-02-17T20:18:53Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:53.582424945Z  [2021-02-17T20:18:53Z INFO  dt_instance] SubAck { pkid: 47, return_codes: [QoS1] }
+2021-02-17T20:18:53.682796894Z  [2021-02-17T20:18:53Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:53.890535787Z  [2021-02-17T20:18:53Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:53.993671916Z  [2021-02-17T20:18:53Z INFO  dt_instance] SubAck { pkid: 48, return_codes: [QoS1] }
+2021-02-17T20:18:54.096326559Z  [2021-02-17T20:18:54Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:54.303375456Z  [2021-02-17T20:18:54Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:54.407459580Z  [2021-02-17T20:18:54Z INFO  dt_instance] SubAck { pkid: 49, return_codes: [QoS1] }
+2021-02-17T20:18:54.508908507Z  [2021-02-17T20:18:54Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:54.715170228Z  [2021-02-17T20:18:54Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:54.818372246Z  [2021-02-17T20:18:54Z INFO  dt_instance] SubAck { pkid: 50, return_codes: [QoS1] }
+2021-02-17T20:18:54.920527869Z  [2021-02-17T20:18:54Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:55.128014456Z  [2021-02-17T20:18:55Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:55.229807306Z  [2021-02-17T20:18:55Z INFO  dt_instance] SubAck { pkid: 51, return_codes: [QoS1] }
+2021-02-17T20:18:55.332766050Z  [2021-02-17T20:18:55Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:55.539441364Z  [2021-02-17T20:18:55Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:55.642201223Z  [2021-02-17T20:18:55Z INFO  dt_instance] SubAck { pkid: 52, return_codes: [QoS1] }
+2021-02-17T20:18:55.743612718Z  [2021-02-17T20:18:55Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:55.949896464Z  [2021-02-17T20:18:55Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:56.052894954Z  [2021-02-17T20:18:56Z INFO  dt_instance] SubAck { pkid: 53, return_codes: [QoS1] }
+2021-02-17T20:18:56.155226869Z  [2021-02-17T20:18:56Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:56.361416579Z  [2021-02-17T20:18:56Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:56.463594217Z  [2021-02-17T20:18:56Z INFO  dt_instance] SubAck { pkid: 54, return_codes: [QoS1] }
+2021-02-17T20:18:56.566472258Z  [2021-02-17T20:18:56Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:56.773281045Z  [2021-02-17T20:18:56Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:56.877082422Z  [2021-02-17T20:18:56Z INFO  dt_instance] SubAck { pkid: 55, return_codes: [QoS1] }
+2021-02-17T20:18:56.977683321Z  [2021-02-17T20:18:56Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:57.184841400Z  [2021-02-17T20:18:57Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:57.288285408Z  [2021-02-17T20:18:57Z INFO  dt_instance] SubAck { pkid: 56, return_codes: [QoS1] }
+2021-02-17T20:18:57.390323735Z  [2021-02-17T20:18:57Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:57.598121652Z  [2021-02-17T20:18:57Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:57.701365028Z  [2021-02-17T20:18:57Z INFO  dt_instance] SubAck { pkid: 57, return_codes: [QoS1] }
+2021-02-17T20:18:57.802423539Z  [2021-02-17T20:18:57Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:58.010117095Z  [2021-02-17T20:18:58Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:58.111715126Z  [2021-02-17T20:18:58Z INFO  dt_instance] SubAck { pkid: 58, return_codes: [QoS1] }
+2021-02-17T20:18:58.214586064Z  [2021-02-17T20:18:58Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:58.421856475Z  [2021-02-17T20:18:58Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:58.523808670Z  [2021-02-17T20:18:58Z INFO  dt_instance] SubAck { pkid: 59, return_codes: [QoS1] }
+2021-02-17T20:18:58.627533626Z  [2021-02-17T20:18:58Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:58.834949569Z  [2021-02-17T20:18:58Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:58.938569919Z  [2021-02-17T20:18:58Z INFO  dt_instance] SubAck { pkid: 60, return_codes: [QoS1] }
+2021-02-17T20:18:59.040615744Z  [2021-02-17T20:18:59Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:59.248418490Z  [2021-02-17T20:18:59Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:59.351544811Z  [2021-02-17T20:18:59Z INFO  dt_instance] SubAck { pkid: 61, return_codes: [QoS1] }
+2021-02-17T20:18:59.452767521Z  [2021-02-17T20:18:59Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:18:59.659079792Z  [2021-02-17T20:18:59Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:18:59.761014201Z  [2021-02-17T20:18:59Z INFO  dt_instance] SubAck { pkid: 62, return_codes: [QoS1] }
+2021-02-17T20:18:59.864682229Z  [2021-02-17T20:18:59Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:00.072603269Z  [2021-02-17T20:19:00Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:00.175663511Z  [2021-02-17T20:19:00Z INFO  dt_instance] SubAck { pkid: 63, return_codes: [QoS1] }
+2021-02-17T20:19:00.277382051Z  [2021-02-17T20:19:00Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:00.483393202Z  [2021-02-17T20:19:00Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:00.586157888Z  [2021-02-17T20:19:00Z INFO  dt_instance] SubAck { pkid: 64, return_codes: [QoS1] }
+2021-02-17T20:19:00.689178648Z  [2021-02-17T20:19:00Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:00.896351404Z  [2021-02-17T20:19:00Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:00.999070280Z  [2021-02-17T20:19:00Z INFO  dt_instance] SubAck { pkid: 65, return_codes: [QoS1] }
+2021-02-17T20:19:01.101394469Z  [2021-02-17T20:19:01Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:01.307493106Z  [2021-02-17T20:19:01Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:01.411379423Z  [2021-02-17T20:19:01Z INFO  dt_instance] SubAck { pkid: 66, return_codes: [QoS1] }
+2021-02-17T20:19:01.513261819Z  [2021-02-17T20:19:01Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:01.720464620Z  [2021-02-17T20:19:01Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:01.831563761Z  [2021-02-17T20:19:01Z INFO  dt_instance] SubAck { pkid: 67, return_codes: [QoS1] }
+2021-02-17T20:19:01.926682798Z  [2021-02-17T20:19:01Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:02.133869803Z  [2021-02-17T20:19:02Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:02.237040270Z  [2021-02-17T20:19:02Z INFO  dt_instance] SubAck { pkid: 68, return_codes: [QoS1] }
+2021-02-17T20:19:02.340452908Z  [2021-02-17T20:19:02Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:02.546050724Z  [2021-02-17T20:19:02Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:02.649224725Z  [2021-02-17T20:19:02Z INFO  dt_instance] SubAck { pkid: 69, return_codes: [QoS1] }
+2021-02-17T20:19:02.751349521Z  [2021-02-17T20:19:02Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:02.957299834Z  [2021-02-17T20:19:02Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:03.060419042Z  [2021-02-17T20:19:03Z INFO  dt_instance] SubAck { pkid: 70, return_codes: [QoS1] }
+2021-02-17T20:19:03.163423256Z  [2021-02-17T20:19:03Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:03.369440939Z  [2021-02-17T20:19:03Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:03.472352573Z  [2021-02-17T20:19:03Z INFO  dt_instance] SubAck { pkid: 71, return_codes: [QoS1] }
+2021-02-17T20:19:03.574740999Z  [2021-02-17T20:19:03Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:03.781931833Z  [2021-02-17T20:19:03Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:03.884726791Z  [2021-02-17T20:19:03Z INFO  dt_instance] SubAck { pkid: 72, return_codes: [QoS1] }
+2021-02-17T20:19:03.986861054Z  [2021-02-17T20:19:03Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:04.193737527Z  [2021-02-17T20:19:04Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:04.296627607Z  [2021-02-17T20:19:04Z INFO  dt_instance] SubAck { pkid: 73, return_codes: [QoS1] }
+2021-02-17T20:19:04.399319560Z  [2021-02-17T20:19:04Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:04.607043257Z  [2021-02-17T20:19:04Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:04.708899782Z  [2021-02-17T20:19:04Z INFO  dt_instance] SubAck { pkid: 74, return_codes: [QoS1] }
+2021-02-17T20:19:04.812979272Z  [2021-02-17T20:19:04Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:05.019569732Z  [2021-02-17T20:19:05Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:05.122580226Z  [2021-02-17T20:19:05Z INFO  dt_instance] SubAck { pkid: 75, return_codes: [QoS1] }
+2021-02-17T20:19:05.224250719Z  [2021-02-17T20:19:05Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:05.431755225Z  [2021-02-17T20:19:05Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:05.535486994Z  [2021-02-17T20:19:05Z INFO  dt_instance] SubAck { pkid: 76, return_codes: [QoS1] }
+2021-02-17T20:19:05.636551625Z  [2021-02-17T20:19:05Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:05.843782332Z  [2021-02-17T20:19:05Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:05.945879186Z  [2021-02-17T20:19:05Z INFO  dt_instance] SubAck { pkid: 77, return_codes: [QoS1] }
+2021-02-17T20:19:06.049670107Z  [2021-02-17T20:19:06Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:06.256597393Z  [2021-02-17T20:19:06Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:06.359011683Z  [2021-02-17T20:19:06Z INFO  dt_instance] SubAck { pkid: 78, return_codes: [QoS1] }
+2021-02-17T20:19:06.462313208Z  [2021-02-17T20:19:06Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:06.669402904Z  [2021-02-17T20:19:06Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:06.772532638Z  [2021-02-17T20:19:06Z INFO  dt_instance] SubAck { pkid: 79, return_codes: [QoS1] }
+2021-02-17T20:19:06.875209387Z  [2021-02-17T20:19:06Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:07.082907839Z  [2021-02-17T20:19:07Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:07.186320698Z  [2021-02-17T20:19:07Z INFO  dt_instance] SubAck { pkid: 80, return_codes: [QoS1] }
+2021-02-17T20:19:07.286668137Z  [2021-02-17T20:19:07Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:07.494345129Z  [2021-02-17T20:19:07Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:07.597033827Z  [2021-02-17T20:19:07Z INFO  dt_instance] SubAck { pkid: 81, return_codes: [QoS1] }
+2021-02-17T20:19:07.700662654Z  [2021-02-17T20:19:07Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:07.907272630Z  [2021-02-17T20:19:07Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:08.010223635Z  [2021-02-17T20:19:08Z INFO  dt_instance] SubAck { pkid: 82, return_codes: [QoS1] }
+2021-02-17T20:19:08.112835647Z  [2021-02-17T20:19:08Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:08.320494639Z  [2021-02-17T20:19:08Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:08.422498452Z  [2021-02-17T20:19:08Z INFO  dt_instance] SubAck { pkid: 83, return_codes: [QoS1] }
+2021-02-17T20:19:08.525972555Z  [2021-02-17T20:19:08Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:08.734156372Z  [2021-02-17T20:19:08Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:08.838214250Z  [2021-02-17T20:19:08Z INFO  dt_instance] SubAck { pkid: 84, return_codes: [QoS1] }
+2021-02-17T20:19:08.934768939Z  [2021-02-17T20:19:08Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:09.140965573Z  [2021-02-17T20:19:09Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:09.243691993Z  [2021-02-17T20:19:09Z INFO  dt_instance] SubAck { pkid: 85, return_codes: [QoS1] }
+2021-02-17T20:19:09.345986140Z  [2021-02-17T20:19:09Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:09.553012318Z  [2021-02-17T20:19:09Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:09.656446166Z  [2021-02-17T20:19:09Z INFO  dt_instance] SubAck { pkid: 86, return_codes: [QoS1] }
+2021-02-17T20:19:09.758700761Z  [2021-02-17T20:19:09Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:09.966185956Z  [2021-02-17T20:19:09Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:10.068010051Z  [2021-02-17T20:19:10Z INFO  dt_instance] SubAck { pkid: 87, return_codes: [QoS1] }
+2021-02-17T20:19:10.171680790Z  [2021-02-17T20:19:10Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:10.379434240Z  [2021-02-17T20:19:10Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:10.482419647Z  [2021-02-17T20:19:10Z INFO  dt_instance] SubAck { pkid: 88, return_codes: [QoS1] }
+2021-02-17T20:19:10.583816686Z  [2021-02-17T20:19:10Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:10.790630180Z  [2021-02-17T20:19:10Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:10.893892541Z  [2021-02-17T20:19:10Z INFO  dt_instance] SubAck { pkid: 89, return_codes: [QoS1] }
+2021-02-17T20:19:10.994841263Z  [2021-02-17T20:19:10Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:11.200807834Z  [2021-02-17T20:19:11Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:11.303824680Z  [2021-02-17T20:19:11Z INFO  dt_instance] SubAck { pkid: 90, return_codes: [QoS1] }
+2021-02-17T20:19:11.406702830Z  [2021-02-17T20:19:11Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:11.613686187Z  [2021-02-17T20:19:11Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:11.716690575Z  [2021-02-17T20:19:11Z INFO  dt_instance] SubAck { pkid: 91, return_codes: [QoS1] }
+2021-02-17T20:19:11.819297784Z  [2021-02-17T20:19:11Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:12.025702205Z  [2021-02-17T20:19:12Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:12.129824000Z  [2021-02-17T20:19:12Z INFO  dt_instance] SubAck { pkid: 92, return_codes: [QoS1] }
+2021-02-17T20:19:12.231619812Z  [2021-02-17T20:19:12Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:12.438250136Z  [2021-02-17T20:19:12Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:12.541575414Z  [2021-02-17T20:19:12Z INFO  dt_instance] SubAck { pkid: 93, return_codes: [QoS1] }
+2021-02-17T20:19:12.642862488Z  [2021-02-17T20:19:12Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:12.849385094Z  [2021-02-17T20:19:12Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:12.952716971Z  [2021-02-17T20:19:12Z INFO  dt_instance] SubAck { pkid: 94, return_codes: [QoS1] }
+2021-02-17T20:19:13.054367628Z  [2021-02-17T20:19:13Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:13.262237855Z  [2021-02-17T20:19:13Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:13.365617224Z  [2021-02-17T20:19:13Z INFO  dt_instance] SubAck { pkid: 95, return_codes: [QoS1] }
+2021-02-17T20:19:13.466741960Z  [2021-02-17T20:19:13Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:13.673673286Z  [2021-02-17T20:19:13Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:13.777302239Z  [2021-02-17T20:19:13Z INFO  dt_instance] SubAck { pkid: 96, return_codes: [QoS1] }
+2021-02-17T20:19:13.878351897Z  [2021-02-17T20:19:13Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:14.084524622Z  [2021-02-17T20:19:14Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:14.188629177Z  [2021-02-17T20:19:14Z INFO  dt_instance] SubAck { pkid: 97, return_codes: [QoS1] }
+2021-02-17T20:19:14.289742127Z  [2021-02-17T20:19:14Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:14.495545931Z  [2021-02-17T20:19:14Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:14.599288975Z  [2021-02-17T20:19:14Z INFO  dt_instance] SubAck { pkid: 98, return_codes: [QoS1] }
+2021-02-17T20:19:14.700402717Z  [2021-02-17T20:19:14Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:14.906876319Z  [2021-02-17T20:19:14Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:15.009725521Z  [2021-02-17T20:19:15Z INFO  dt_instance] SubAck { pkid: 99, return_codes: [QoS1] }
+2021-02-17T20:19:15.111748799Z  [2021-02-17T20:19:15Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:15.319002091Z  [2021-02-17T20:19:15Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:15.422299031Z  [2021-02-17T20:19:15Z INFO  dt_instance] SubAck { pkid: 100, return_codes: [QoS1] }
+2021-02-17T20:19:15.524502277Z  [2021-02-17T20:19:15Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:15.728946204Z  [2021-02-17T20:19:15Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:15.831478516Z  [2021-02-17T20:19:15Z INFO  dt_instance] SubAck { pkid: 1, return_codes: [QoS1] }
+2021-02-17T20:19:15.933921447Z  [2021-02-17T20:19:15Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:16.140022081Z  [2021-02-17T20:19:16Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:16.244220548Z  [2021-02-17T20:19:16Z INFO  dt_instance] SubAck { pkid: 2, return_codes: [QoS1] }
+2021-02-17T20:19:16.345025801Z  [2021-02-17T20:19:16Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:16.552395148Z  [2021-02-17T20:19:16Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:16.656298091Z  [2021-02-17T20:19:16Z INFO  dt_instance] SubAck { pkid: 3, return_codes: [QoS1] }
+2021-02-17T20:19:16.758316556Z  [2021-02-17T20:19:16Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:16.966276061Z  [2021-02-17T20:19:16Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:17.070258165Z  [2021-02-17T20:19:17Z INFO  dt_instance] SubAck { pkid: 4, return_codes: [QoS1] }
+2021-02-17T20:19:17.170528897Z  [2021-02-17T20:19:17Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:17.376418431Z  [2021-02-17T20:19:17Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:17.480402502Z  [2021-02-17T20:19:17Z INFO  dt_instance] SubAck { pkid: 5, return_codes: [QoS1] }
+2021-02-17T20:19:17.581950048Z  [2021-02-17T20:19:17Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:17.788186312Z  [2021-02-17T20:19:17Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:17.891081257Z  [2021-02-17T20:19:17Z INFO  dt_instance] SubAck { pkid: 6, return_codes: [QoS1] }
+2021-02-17T20:19:17.993321147Z  [2021-02-17T20:19:17Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:18.199105130Z  [2021-02-17T20:19:18Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:18.301288230Z  [2021-02-17T20:19:18Z INFO  dt_instance] SubAck { pkid: 7, return_codes: [QoS1] }
+2021-02-17T20:19:18.403652267Z  [2021-02-17T20:19:18Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:18.610765602Z  [2021-02-17T20:19:18Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:18.713667327Z  [2021-02-17T20:19:18Z INFO  dt_instance] SubAck { pkid: 8, return_codes: [QoS1] }
+2021-02-17T20:19:18.815668664Z  [2021-02-17T20:19:18Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:19.023439954Z  [2021-02-17T20:19:19Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:19.126369377Z  [2021-02-17T20:19:19Z INFO  dt_instance] SubAck { pkid: 9, return_codes: [QoS1] }
+2021-02-17T20:19:19.228383053Z  [2021-02-17T20:19:19Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:19.436596799Z  [2021-02-17T20:19:19Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:19.539797002Z  [2021-02-17T20:19:19Z INFO  dt_instance] SubAck { pkid: 10, return_codes: [QoS1] }
+2021-02-17T20:19:19.641230313Z  [2021-02-17T20:19:19Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:19.847355910Z  [2021-02-17T20:19:19Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:19.951487657Z  [2021-02-17T20:19:19Z INFO  dt_instance] SubAck { pkid: 11, return_codes: [QoS1] }
+2021-02-17T20:19:20.052420693Z  [2021-02-17T20:19:20Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:20.259830764Z  [2021-02-17T20:19:20Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:20.362526952Z  [2021-02-17T20:19:20Z INFO  dt_instance] SubAck { pkid: 12, return_codes: [QoS1] }
+2021-02-17T20:19:20.464074550Z  [2021-02-17T20:19:20Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:20.671012313Z  [2021-02-17T20:19:20Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:20.772922647Z  [2021-02-17T20:19:20Z INFO  dt_instance] SubAck { pkid: 13, return_codes: [QoS1] }
+2021-02-17T20:19:20.875586513Z  [2021-02-17T20:19:20Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:21.081918509Z  [2021-02-17T20:19:21Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:21.185313708Z  [2021-02-17T20:19:21Z INFO  dt_instance] SubAck { pkid: 14, return_codes: [QoS1] }
+2021-02-17T20:19:21.288793578Z  [2021-02-17T20:19:21Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:21.494927024Z  [2021-02-17T20:19:21Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:21.597050432Z  [2021-02-17T20:19:21Z INFO  dt_instance] SubAck { pkid: 15, return_codes: [QoS1] }
+2021-02-17T20:19:21.700201253Z  [2021-02-17T20:19:21Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:21.907646352Z  [2021-02-17T20:19:21Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:22.010547813Z  [2021-02-17T20:19:22Z INFO  dt_instance] SubAck { pkid: 16, return_codes: [QoS1] }
+2021-02-17T20:19:22.112757843Z  [2021-02-17T20:19:22Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:22.320374682Z  [2021-02-17T20:19:22Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:22.422942888Z  [2021-02-17T20:19:22Z INFO  dt_instance] SubAck { pkid: 17, return_codes: [QoS1] }
+2021-02-17T20:19:22.524805463Z  [2021-02-17T20:19:22Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:22.732407658Z  [2021-02-17T20:19:22Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:22.835176542Z  [2021-02-17T20:19:22Z INFO  dt_instance] SubAck { pkid: 18, return_codes: [QoS1] }
+2021-02-17T20:19:22.941376730Z  [2021-02-17T20:19:22Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:23.149334652Z  [2021-02-17T20:19:23Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:23.252114577Z  [2021-02-17T20:19:23Z INFO  dt_instance] SubAck { pkid: 19, return_codes: [QoS1] }
+2021-02-17T20:19:23.354522471Z  [2021-02-17T20:19:23Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:23.560955290Z  [2021-02-17T20:19:23Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:23.662860680Z  [2021-02-17T20:19:23Z INFO  dt_instance] SubAck { pkid: 20, return_codes: [QoS1] }
+2021-02-17T20:19:23.765880064Z  [2021-02-17T20:19:23Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:23.971449285Z  [2021-02-17T20:19:23Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:24.074944925Z  [2021-02-17T20:19:24Z INFO  dt_instance] SubAck { pkid: 21, return_codes: [QoS1] }
+2021-02-17T20:19:24.177196915Z  [2021-02-17T20:19:24Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:24.383251244Z  [2021-02-17T20:19:24Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:24.487252846Z  [2021-02-17T20:19:24Z INFO  dt_instance] SubAck { pkid: 22, return_codes: [QoS1] }
+2021-02-17T20:19:24.589932812Z  [2021-02-17T20:19:24Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:24.796609059Z  [2021-02-17T20:19:24Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:24.900511194Z  [2021-02-17T20:19:24Z INFO  dt_instance] SubAck { pkid: 23, return_codes: [QoS1] }
+2021-02-17T20:19:25.002083497Z  [2021-02-17T20:19:25Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:25.207979477Z  [2021-02-17T20:19:25Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:25.310161843Z  [2021-02-17T20:19:25Z INFO  dt_instance] SubAck { pkid: 24, return_codes: [QoS1] }
+2021-02-17T20:19:25.413961031Z  [2021-02-17T20:19:25Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:25.620233180Z  [2021-02-17T20:19:25Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:25.723062330Z  [2021-02-17T20:19:25Z INFO  dt_instance] SubAck { pkid: 25, return_codes: [QoS1] }
+2021-02-17T20:19:25.825429671Z  [2021-02-17T20:19:25Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:26.032556748Z  [2021-02-17T20:19:26Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:26.135673784Z  [2021-02-17T20:19:26Z INFO  dt_instance] SubAck { pkid: 26, return_codes: [QoS1] }
+2021-02-17T20:19:26.238449132Z  [2021-02-17T20:19:26Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:26.446458996Z  [2021-02-17T20:19:26Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:26.549230056Z  [2021-02-17T20:19:26Z INFO  dt_instance] SubAck { pkid: 27, return_codes: [QoS1] }
+2021-02-17T20:19:26.651582477Z  [2021-02-17T20:19:26Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:26.856658138Z  [2021-02-17T20:19:26Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:26.960479151Z  [2021-02-17T20:19:26Z INFO  dt_instance] SubAck { pkid: 28, return_codes: [QoS1] }
+2021-02-17T20:19:27.061191013Z  [2021-02-17T20:19:27Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:27.268109147Z  [2021-02-17T20:19:27Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:27.371362042Z  [2021-02-17T20:19:27Z INFO  dt_instance] SubAck { pkid: 29, return_codes: [QoS1] }
+2021-02-17T20:19:27.474637520Z  [2021-02-17T20:19:27Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:27.681910344Z  [2021-02-17T20:19:27Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:27.784745716Z  [2021-02-17T20:19:27Z INFO  dt_instance] SubAck { pkid: 30, return_codes: [QoS1] }
+2021-02-17T20:19:27.887615425Z  [2021-02-17T20:19:27Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:28.093417680Z  [2021-02-17T20:19:28Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:28.195989685Z  [2021-02-17T20:19:28Z INFO  dt_instance] SubAck { pkid: 31, return_codes: [QoS1] }
+2021-02-17T20:19:28.299192499Z  [2021-02-17T20:19:28Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:28.505526984Z  [2021-02-17T20:19:28Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:28.607980813Z  [2021-02-17T20:19:28Z INFO  dt_instance] SubAck { pkid: 32, return_codes: [QoS1] }
+2021-02-17T20:19:28.711341474Z  [2021-02-17T20:19:28Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:28.919063385Z  [2021-02-17T20:19:28Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:29.020665638Z  [2021-02-17T20:19:29Z INFO  dt_instance] SubAck { pkid: 33, return_codes: [QoS1] }
+2021-02-17T20:19:29.122968628Z  [2021-02-17T20:19:29Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:29.331262148Z  [2021-02-17T20:19:29Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:29.433746922Z  [2021-02-17T20:19:29Z INFO  dt_instance] SubAck { pkid: 34, return_codes: [QoS1] }
+2021-02-17T20:19:29.537876072Z  [2021-02-17T20:19:29Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:29.744751468Z  [2021-02-17T20:19:29Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:29.847772739Z  [2021-02-17T20:19:29Z INFO  dt_instance] SubAck { pkid: 35, return_codes: [QoS1] }
+2021-02-17T20:19:29.950711564Z  [2021-02-17T20:19:29Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:30.158126075Z  [2021-02-17T20:19:30Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:30.260868045Z  [2021-02-17T20:19:30Z INFO  dt_instance] SubAck { pkid: 36, return_codes: [QoS1] }
+2021-02-17T20:19:30.363330339Z  [2021-02-17T20:19:30Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:30.570746005Z  [2021-02-17T20:19:30Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:30.673076188Z  [2021-02-17T20:19:30Z INFO  dt_instance] SubAck { pkid: 37, return_codes: [QoS1] }
+2021-02-17T20:19:30.775474926Z  [2021-02-17T20:19:30Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:30.983636854Z  [2021-02-17T20:19:30Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:31.086770737Z  [2021-02-17T20:19:31Z INFO  dt_instance] SubAck { pkid: 38, return_codes: [QoS1] }
+2021-02-17T20:19:31.187867102Z  [2021-02-17T20:19:31Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:31.394267171Z  [2021-02-17T20:19:31Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:31.497745883Z  [2021-02-17T20:19:31Z INFO  dt_instance] SubAck { pkid: 39, return_codes: [QoS1] }
+2021-02-17T20:19:31.599332800Z  [2021-02-17T20:19:31Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:31.805888799Z  [2021-02-17T20:19:31Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:31.907779989Z  [2021-02-17T20:19:31Z INFO  dt_instance] SubAck { pkid: 40, return_codes: [QoS1] }
+2021-02-17T20:19:32.010707890Z  [2021-02-17T20:19:32Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:32.218411251Z  [2021-02-17T20:19:32Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:32.321071059Z  [2021-02-17T20:19:32Z INFO  dt_instance] SubAck { pkid: 41, return_codes: [QoS1] }
+2021-02-17T20:19:32.422455167Z  [2021-02-17T20:19:32Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:32.629861305Z  [2021-02-17T20:19:32Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:32.733120750Z  [2021-02-17T20:19:32Z INFO  dt_instance] SubAck { pkid: 42, return_codes: [QoS1] }
+2021-02-17T20:19:32.835533692Z  [2021-02-17T20:19:32Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:33.041226910Z  [2021-02-17T20:19:33Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:33.144465196Z  [2021-02-17T20:19:33Z INFO  dt_instance] SubAck { pkid: 43, return_codes: [QoS1] }
+2021-02-17T20:19:33.246741595Z  [2021-02-17T20:19:33Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:33.454180388Z  [2021-02-17T20:19:33Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:33.557080201Z  [2021-02-17T20:19:33Z INFO  dt_instance] SubAck { pkid: 44, return_codes: [QoS1] }
+2021-02-17T20:19:33.659100698Z  [2021-02-17T20:19:33Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:33.865674488Z  [2021-02-17T20:19:33Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:33.968587971Z  [2021-02-17T20:19:33Z INFO  dt_instance] SubAck { pkid: 45, return_codes: [QoS1] }
+2021-02-17T20:19:34.071657393Z  [2021-02-17T20:19:34Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:34.279034723Z  [2021-02-17T20:19:34Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:34.380720631Z  [2021-02-17T20:19:34Z INFO  dt_instance] SubAck { pkid: 46, return_codes: [QoS1] }
+2021-02-17T20:19:34.483633498Z  [2021-02-17T20:19:34Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:34.689794016Z  [2021-02-17T20:19:34Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:34.792657506Z  [2021-02-17T20:19:34Z INFO  dt_instance] SubAck { pkid: 47, return_codes: [QoS1] }
+2021-02-17T20:19:34.895117327Z  [2021-02-17T20:19:34Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:35.101196125Z  [2021-02-17T20:19:35Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:35.203320650Z  [2021-02-17T20:19:35Z INFO  dt_instance] SubAck { pkid: 48, return_codes: [QoS1] }
+2021-02-17T20:19:35.306900930Z  [2021-02-17T20:19:35Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:35.512932076Z  [2021-02-17T20:19:35Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:35.614709468Z  [2021-02-17T20:19:35Z INFO  dt_instance] SubAck { pkid: 49, return_codes: [QoS1] }
+2021-02-17T20:19:35.719705298Z  [2021-02-17T20:19:35Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:35.925496752Z  [2021-02-17T20:19:35Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:36.028354019Z  [2021-02-17T20:19:36Z INFO  dt_instance] SubAck { pkid: 50, return_codes: [QoS1] }
+2021-02-17T20:19:36.131410686Z  [2021-02-17T20:19:36Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:36.338400699Z  [2021-02-17T20:19:36Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:36.441185984Z  [2021-02-17T20:19:36Z INFO  dt_instance] SubAck { pkid: 51, return_codes: [QoS1] }
+2021-02-17T20:19:36.543043902Z  [2021-02-17T20:19:36Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:36.749466121Z  [2021-02-17T20:19:36Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:36.852607911Z  [2021-02-17T20:19:36Z INFO  dt_instance] SubAck { pkid: 52, return_codes: [QoS1] }
+2021-02-17T20:19:36.953972722Z  [2021-02-17T20:19:36Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:37.160714501Z  [2021-02-17T20:19:37Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:37.263453069Z  [2021-02-17T20:19:37Z INFO  dt_instance] SubAck { pkid: 53, return_codes: [QoS1] }
+2021-02-17T20:19:37.365644753Z  [2021-02-17T20:19:37Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:37.572066060Z  [2021-02-17T20:19:37Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:37.674014100Z  [2021-02-17T20:19:37Z INFO  dt_instance] SubAck { pkid: 54, return_codes: [QoS1] }
+2021-02-17T20:19:37.778301336Z  [2021-02-17T20:19:37Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:37.984233680Z  [2021-02-17T20:19:37Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:38.087315521Z  [2021-02-17T20:19:38Z INFO  dt_instance] SubAck { pkid: 55, return_codes: [QoS1] }
+2021-02-17T20:19:38.188674228Z  [2021-02-17T20:19:38Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:38.396530725Z  [2021-02-17T20:19:38Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:38.498765713Z  [2021-02-17T20:19:38Z INFO  dt_instance] SubAck { pkid: 56, return_codes: [QoS1] }
+2021-02-17T20:19:38.601668984Z  [2021-02-17T20:19:38Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:38.808545246Z  [2021-02-17T20:19:38Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:38.911918366Z  [2021-02-17T20:19:38Z INFO  dt_instance] SubAck { pkid: 57, return_codes: [QoS1] }
+2021-02-17T20:19:39.013333116Z  [2021-02-17T20:19:39Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:39.221843706Z  [2021-02-17T20:19:39Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:39.325218035Z  [2021-02-17T20:19:39Z INFO  dt_instance] SubAck { pkid: 58, return_codes: [QoS1] }
+2021-02-17T20:19:39.426908437Z  [2021-02-17T20:19:39Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:39.632902998Z  [2021-02-17T20:19:39Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:39.735385935Z  [2021-02-17T20:19:39Z INFO  dt_instance] SubAck { pkid: 59, return_codes: [QoS1] }
+2021-02-17T20:19:39.837913423Z  [2021-02-17T20:19:39Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:40.043319572Z  [2021-02-17T20:19:40Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:40.146310278Z  [2021-02-17T20:19:40Z INFO  dt_instance] SubAck { pkid: 60, return_codes: [QoS1] }
+2021-02-17T20:19:40.248387539Z  [2021-02-17T20:19:40Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:40.455841253Z  [2021-02-17T20:19:40Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:40.557938688Z  [2021-02-17T20:19:40Z INFO  dt_instance] SubAck { pkid: 61, return_codes: [QoS1] }
+2021-02-17T20:19:40.660862829Z  [2021-02-17T20:19:40Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:40.866877121Z  [2021-02-17T20:19:40Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:40.969482117Z  [2021-02-17T20:19:40Z INFO  dt_instance] SubAck { pkid: 62, return_codes: [QoS1] }
+2021-02-17T20:19:41.071857847Z  [2021-02-17T20:19:41Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:41.277970695Z  [2021-02-17T20:19:41Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:41.379407903Z  [2021-02-17T20:19:41Z INFO  dt_instance] SubAck { pkid: 63, return_codes: [QoS1] }
+2021-02-17T20:19:41.483219579Z  [2021-02-17T20:19:41Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:41.688312188Z  [2021-02-17T20:19:41Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:41.791697720Z  [2021-02-17T20:19:41Z INFO  dt_instance] SubAck { pkid: 64, return_codes: [QoS1] }
+2021-02-17T20:19:41.894868391Z  [2021-02-17T20:19:41Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:42.101527873Z  [2021-02-17T20:19:42Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:42.205352630Z  [2021-02-17T20:19:42Z INFO  dt_instance] SubAck { pkid: 65, return_codes: [QoS1] }
+2021-02-17T20:19:42.307001210Z  [2021-02-17T20:19:42Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:42.513368724Z  [2021-02-17T20:19:42Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:42.615676921Z  [2021-02-17T20:19:42Z INFO  dt_instance] SubAck { pkid: 66, return_codes: [QoS1] }
+2021-02-17T20:19:42.718145694Z  [2021-02-17T20:19:42Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:42.923845713Z  [2021-02-17T20:19:42Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:43.026639922Z  [2021-02-17T20:19:43Z INFO  dt_instance] SubAck { pkid: 67, return_codes: [QoS1] }
+2021-02-17T20:19:43.129064739Z  [2021-02-17T20:19:43Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:43.335248336Z  [2021-02-17T20:19:43Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:43.438499143Z  [2021-02-17T20:19:43Z INFO  dt_instance] SubAck { pkid: 68, return_codes: [QoS1] }
+2021-02-17T20:19:43.539419911Z  [2021-02-17T20:19:43Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:43.746645720Z  [2021-02-17T20:19:43Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:43.850493001Z  [2021-02-17T20:19:43Z INFO  dt_instance] SubAck { pkid: 69, return_codes: [QoS1] }
+2021-02-17T20:19:43.951945550Z  [2021-02-17T20:19:43Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:44.158472750Z  [2021-02-17T20:19:44Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:44.262603190Z  [2021-02-17T20:19:44Z INFO  dt_instance] SubAck { pkid: 70, return_codes: [QoS1] }
+2021-02-17T20:19:44.363276814Z  [2021-02-17T20:19:44Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:44.569554978Z  [2021-02-17T20:19:44Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:44.672755686Z  [2021-02-17T20:19:44Z INFO  dt_instance] SubAck { pkid: 71, return_codes: [QoS1] }
+2021-02-17T20:19:44.774624420Z  [2021-02-17T20:19:44Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:44.981180367Z  [2021-02-17T20:19:44Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:45.083959468Z  [2021-02-17T20:19:45Z INFO  dt_instance] SubAck { pkid: 72, return_codes: [QoS1] }
+2021-02-17T20:19:45.187787813Z  [2021-02-17T20:19:45Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:45.394712122Z  [2021-02-17T20:19:45Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:45.497621274Z  [2021-02-17T20:19:45Z INFO  dt_instance] SubAck { pkid: 73, return_codes: [QoS1] }
+2021-02-17T20:19:45.600181000Z  [2021-02-17T20:19:45Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:45.806236755Z  [2021-02-17T20:19:45Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:45.909514933Z  [2021-02-17T20:19:45Z INFO  dt_instance] SubAck { pkid: 74, return_codes: [QoS1] }
+2021-02-17T20:19:46.011312476Z  [2021-02-17T20:19:46Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:46.218998195Z  [2021-02-17T20:19:46Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:46.322201250Z  [2021-02-17T20:19:46Z INFO  dt_instance] SubAck { pkid: 75, return_codes: [QoS1] }
+2021-02-17T20:19:46.423471890Z  [2021-02-17T20:19:46Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:46.629848162Z  [2021-02-17T20:19:46Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:46.733108397Z  [2021-02-17T20:19:46Z INFO  dt_instance] SubAck { pkid: 76, return_codes: [QoS1] }
+2021-02-17T20:19:46.834361500Z  [2021-02-17T20:19:46Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:47.041125414Z  [2021-02-17T20:19:47Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:47.144292257Z  [2021-02-17T20:19:47Z INFO  dt_instance] SubAck { pkid: 77, return_codes: [QoS1] }
+2021-02-17T20:19:47.246400005Z  [2021-02-17T20:19:47Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:47.452823245Z  [2021-02-17T20:19:47Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:47.555842702Z  [2021-02-17T20:19:47Z INFO  dt_instance] SubAck { pkid: 78, return_codes: [QoS1] }
+2021-02-17T20:19:47.658951253Z  [2021-02-17T20:19:47Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:47.865308154Z  [2021-02-17T20:19:47Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:47.968145982Z  [2021-02-17T20:19:47Z INFO  dt_instance] SubAck { pkid: 79, return_codes: [QoS1] }
+2021-02-17T20:19:48.071647785Z  [2021-02-17T20:19:48Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:48.279567161Z  [2021-02-17T20:19:48Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:48.383393632Z  [2021-02-17T20:19:48Z INFO  dt_instance] SubAck { pkid: 80, return_codes: [QoS1] }
+2021-02-17T20:19:48.485060366Z  [2021-02-17T20:19:48Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:48.691164690Z  [2021-02-17T20:19:48Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:48.794115214Z  [2021-02-17T20:19:48Z INFO  dt_instance] SubAck { pkid: 81, return_codes: [QoS1] }
+2021-02-17T20:19:48.897344597Z  [2021-02-17T20:19:48Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:49.102268781Z  [2021-02-17T20:19:49Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:49.205200830Z  [2021-02-17T20:19:49Z INFO  dt_instance] SubAck { pkid: 82, return_codes: [QoS1] }
+2021-02-17T20:19:49.308594680Z  [2021-02-17T20:19:49Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:49.514476499Z  [2021-02-17T20:19:49Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:49.617030921Z  [2021-02-17T20:19:49Z INFO  dt_instance] SubAck { pkid: 83, return_codes: [QoS1] }
+2021-02-17T20:19:49.719271004Z  [2021-02-17T20:19:49Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:49.926921346Z  [2021-02-17T20:19:49Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:50.029646114Z  [2021-02-17T20:19:50Z INFO  dt_instance] SubAck { pkid: 84, return_codes: [QoS1] }
+2021-02-17T20:19:50.131967404Z  [2021-02-17T20:19:50Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:50.337970453Z  [2021-02-17T20:19:50Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:50.440968808Z  [2021-02-17T20:19:50Z INFO  dt_instance] SubAck { pkid: 85, return_codes: [QoS1] }
+2021-02-17T20:19:50.543149911Z  [2021-02-17T20:19:50Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:50.749838138Z  [2021-02-17T20:19:50Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:50.853416292Z  [2021-02-17T20:19:50Z INFO  dt_instance] SubAck { pkid: 86, return_codes: [QoS1] }
+2021-02-17T20:19:50.955781852Z  [2021-02-17T20:19:50Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:51.163317873Z  [2021-02-17T20:19:51Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:51.266254063Z  [2021-02-17T20:19:51Z INFO  dt_instance] SubAck { pkid: 87, return_codes: [QoS1] }
+2021-02-17T20:19:51.369583735Z  [2021-02-17T20:19:51Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:51.576248720Z  [2021-02-17T20:19:51Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:51.678918811Z  [2021-02-17T20:19:51Z INFO  dt_instance] SubAck { pkid: 88, return_codes: [QoS1] }
+2021-02-17T20:19:51.781559741Z  [2021-02-17T20:19:51Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:51.987315186Z  [2021-02-17T20:19:51Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:52.090802000Z  [2021-02-17T20:19:52Z INFO  dt_instance] SubAck { pkid: 89, return_codes: [QoS1] }
+2021-02-17T20:19:52.193052541Z  [2021-02-17T20:19:52Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:52.399249553Z  [2021-02-17T20:19:52Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:52.500800983Z  [2021-02-17T20:19:52Z INFO  dt_instance] SubAck { pkid: 90, return_codes: [QoS1] }
+2021-02-17T20:19:52.603744589Z  [2021-02-17T20:19:52Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:52.810836395Z  [2021-02-17T20:19:52Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:52.912894146Z  [2021-02-17T20:19:52Z INFO  dt_instance] SubAck { pkid: 91, return_codes: [QoS1] }
+2021-02-17T20:19:53.016520861Z  [2021-02-17T20:19:53Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:53.223418537Z  [2021-02-17T20:19:53Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:53.326630543Z  [2021-02-17T20:19:53Z INFO  dt_instance] SubAck { pkid: 92, return_codes: [QoS1] }
+2021-02-17T20:19:53.429282588Z  [2021-02-17T20:19:53Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:53.636315652Z  [2021-02-17T20:19:53Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:53.739218882Z  [2021-02-17T20:19:53Z INFO  dt_instance] SubAck { pkid: 93, return_codes: [QoS1] }
+2021-02-17T20:19:53.841371390Z  [2021-02-17T20:19:53Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:54.048161722Z  [2021-02-17T20:19:54Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:54.151033390Z  [2021-02-17T20:19:54Z INFO  dt_instance] SubAck { pkid: 94, return_codes: [QoS1] }
+2021-02-17T20:19:54.253824816Z  [2021-02-17T20:19:54Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:54.460008798Z  [2021-02-17T20:19:54Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:54.561604433Z  [2021-02-17T20:19:54Z INFO  dt_instance] SubAck { pkid: 95, return_codes: [QoS1] }
+2021-02-17T20:19:54.664963610Z  [2021-02-17T20:19:54Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:54.872659526Z  [2021-02-17T20:19:54Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:54.975580236Z  [2021-02-17T20:19:54Z INFO  dt_instance] SubAck { pkid: 96, return_codes: [QoS1] }
+2021-02-17T20:19:55.078418046Z  [2021-02-17T20:19:55Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:55.284982952Z  [2021-02-17T20:19:55Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:55.388481469Z  [2021-02-17T20:19:55Z INFO  dt_instance] SubAck { pkid: 97, return_codes: [QoS1] }
+2021-02-17T20:19:55.489410979Z  [2021-02-17T20:19:55Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:55.696328378Z  [2021-02-17T20:19:55Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:55.798236798Z  [2021-02-17T20:19:55Z INFO  dt_instance] SubAck { pkid: 98, return_codes: [QoS1] }
+2021-02-17T20:19:55.901727697Z  [2021-02-17T20:19:55Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:56.109114881Z  [2021-02-17T20:19:56Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:56.212022707Z  [2021-02-17T20:19:56Z INFO  dt_instance] SubAck { pkid: 99, return_codes: [QoS1] }
+2021-02-17T20:19:56.316571231Z  [2021-02-17T20:19:56Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:56.522541568Z  [2021-02-17T20:19:56Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:56.625858987Z  [2021-02-17T20:19:56Z INFO  dt_instance] SubAck { pkid: 100, return_codes: [QoS1] }
+2021-02-17T20:19:56.728383819Z  [2021-02-17T20:19:56Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:56.935899081Z  [2021-02-17T20:19:56Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:57.037592680Z  [2021-02-17T20:19:57Z INFO  dt_instance] SubAck { pkid: 1, return_codes: [QoS1] }
+2021-02-17T20:19:57.141445711Z  [2021-02-17T20:19:57Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:57.348632528Z  [2021-02-17T20:19:57Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:57.451577385Z  [2021-02-17T20:19:57Z INFO  dt_instance] SubAck { pkid: 2, return_codes: [QoS1] }
+2021-02-17T20:19:57.553378136Z  [2021-02-17T20:19:57Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:57.761340172Z  [2021-02-17T20:19:57Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:57.865441591Z  [2021-02-17T20:19:57Z INFO  dt_instance] SubAck { pkid: 3, return_codes: [QoS1] }
+2021-02-17T20:19:57.966003829Z  [2021-02-17T20:19:57Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:58.172171037Z  [2021-02-17T20:19:58Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:58.276228112Z  [2021-02-17T20:19:58Z INFO  dt_instance] SubAck { pkid: 4, return_codes: [QoS1] }
+2021-02-17T20:19:58.377633017Z  [2021-02-17T20:19:58Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:58.583651423Z  [2021-02-17T20:19:58Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:58.686595788Z  [2021-02-17T20:19:58Z INFO  dt_instance] SubAck { pkid: 5, return_codes: [QoS1] }
+2021-02-17T20:19:58.789708082Z  [2021-02-17T20:19:58Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:58.996993709Z  [2021-02-17T20:19:58Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:59.100102081Z  [2021-02-17T20:19:59Z INFO  dt_instance] SubAck { pkid: 6, return_codes: [QoS1] }
+2021-02-17T20:19:59.201702499Z  [2021-02-17T20:19:59Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:59.408251499Z  [2021-02-17T20:19:59Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:59.509623453Z  [2021-02-17T20:19:59Z INFO  dt_instance] SubAck { pkid: 7, return_codes: [QoS1] }
+2021-02-17T20:19:59.614462124Z  [2021-02-17T20:19:59Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:19:59.822078891Z  [2021-02-17T20:19:59Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:19:59.924808363Z  [2021-02-17T20:19:59Z INFO  dt_instance] SubAck { pkid: 8, return_codes: [QoS1] }
+2021-02-17T20:20:00.027446202Z  [2021-02-17T20:20:00Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:00.234323909Z  [2021-02-17T20:20:00Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:00.337408374Z  [2021-02-17T20:20:00Z INFO  dt_instance] SubAck { pkid: 9, return_codes: [QoS1] }
+2021-02-17T20:20:00.441003619Z  [2021-02-17T20:20:00Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:00.646860195Z  [2021-02-17T20:20:00Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:00.749731761Z  [2021-02-17T20:20:00Z INFO  dt_instance] SubAck { pkid: 10, return_codes: [QoS1] }
+2021-02-17T20:20:00.853476943Z  [2021-02-17T20:20:00Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:01.060003605Z  [2021-02-17T20:20:01Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:01.161867726Z  [2021-02-17T20:20:01Z INFO  dt_instance] SubAck { pkid: 11, return_codes: [QoS1] }
+2021-02-17T20:20:01.268670109Z  [2021-02-17T20:20:01Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:01.475357074Z  [2021-02-17T20:20:01Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:01.578202556Z  [2021-02-17T20:20:01Z INFO  dt_instance] SubAck { pkid: 12, return_codes: [QoS1] }
+2021-02-17T20:20:01.681320454Z  [2021-02-17T20:20:01Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:01.888779347Z  [2021-02-17T20:20:01Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:01.991917089Z  [2021-02-17T20:20:01Z INFO  dt_instance] SubAck { pkid: 13, return_codes: [QoS1] }
+2021-02-17T20:20:02.095449267Z  [2021-02-17T20:20:02Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:02.304453578Z  [2021-02-17T20:20:02Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:02.406704159Z  [2021-02-17T20:20:02Z INFO  dt_instance] SubAck { pkid: 14, return_codes: [QoS1] }
+2021-02-17T20:20:02.510320197Z  [2021-02-17T20:20:02Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:02.717204453Z  [2021-02-17T20:20:02Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:02.821302282Z  [2021-02-17T20:20:02Z INFO  dt_instance] SubAck { pkid: 15, return_codes: [QoS1] }
+2021-02-17T20:20:02.923881255Z  [2021-02-17T20:20:02Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:03.130202536Z  [2021-02-17T20:20:03Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:03.232263950Z  [2021-02-17T20:20:03Z INFO  dt_instance] SubAck { pkid: 16, return_codes: [QoS1] }
+2021-02-17T20:20:03.336000216Z  [2021-02-17T20:20:03Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:03.543232985Z  [2021-02-17T20:20:03Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:03.644809292Z  [2021-02-17T20:20:03Z INFO  dt_instance] SubAck { pkid: 17, return_codes: [QoS1] }
+2021-02-17T20:20:03.748319470Z  [2021-02-17T20:20:03Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:03.955289457Z  [2021-02-17T20:20:03Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:04.058093670Z  [2021-02-17T20:20:04Z INFO  dt_instance] SubAck { pkid: 18, return_codes: [QoS1] }
+2021-02-17T20:20:04.161144735Z  [2021-02-17T20:20:04Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:04.369206609Z  [2021-02-17T20:20:04Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:04.470958574Z  [2021-02-17T20:20:04Z INFO  dt_instance] SubAck { pkid: 19, return_codes: [QoS1] }
+2021-02-17T20:20:04.574658541Z  [2021-02-17T20:20:04Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:04.782085443Z  [2021-02-17T20:20:04Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:04.884086017Z  [2021-02-17T20:20:04Z INFO  dt_instance] SubAck { pkid: 20, return_codes: [QoS1] }
+2021-02-17T20:20:04.986359263Z  [2021-02-17T20:20:04Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:05.192998029Z  [2021-02-17T20:20:05Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:05.295553965Z  [2021-02-17T20:20:05Z INFO  dt_instance] SubAck { pkid: 21, return_codes: [QoS1] }
+2021-02-17T20:20:05.398510220Z  [2021-02-17T20:20:05Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:05.604232702Z  [2021-02-17T20:20:05Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:05.707147731Z  [2021-02-17T20:20:05Z INFO  dt_instance] SubAck { pkid: 22, return_codes: [QoS1] }
+2021-02-17T20:20:05.809232424Z  [2021-02-17T20:20:05Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:06.016251156Z  [2021-02-17T20:20:06Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:06.119229009Z  [2021-02-17T20:20:06Z INFO  dt_instance] SubAck { pkid: 23, return_codes: [QoS1] }
+2021-02-17T20:20:06.221514757Z  [2021-02-17T20:20:06Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:06.429309810Z  [2021-02-17T20:20:06Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:06.533487166Z  [2021-02-17T20:20:06Z INFO  dt_instance] SubAck { pkid: 24, return_codes: [QoS1] }
+2021-02-17T20:20:06.634140441Z  [2021-02-17T20:20:06Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:06.840637134Z  [2021-02-17T20:20:06Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:06.944502730Z  [2021-02-17T20:20:06Z INFO  dt_instance] SubAck { pkid: 25, return_codes: [QoS1] }
+2021-02-17T20:20:07.046257111Z  [2021-02-17T20:20:07Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:07.252911330Z  [2021-02-17T20:20:07Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:07.356486375Z  [2021-02-17T20:20:07Z INFO  dt_instance] SubAck { pkid: 26, return_codes: [QoS1] }
+2021-02-17T20:20:07.458263740Z  [2021-02-17T20:20:07Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:07.666363396Z  [2021-02-17T20:20:07Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:07.770344621Z  [2021-02-17T20:20:07Z INFO  dt_instance] SubAck { pkid: 27, return_codes: [QoS1] }
+2021-02-17T20:20:07.870530706Z  [2021-02-17T20:20:07Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:08.078349364Z  [2021-02-17T20:20:08Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:08.181147504Z  [2021-02-17T20:20:08Z INFO  dt_instance] SubAck { pkid: 28, return_codes: [QoS1] }
+2021-02-17T20:20:08.283897800Z  [2021-02-17T20:20:08Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:08.490929858Z  [2021-02-17T20:20:08Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:08.593174359Z  [2021-02-17T20:20:08Z INFO  dt_instance] SubAck { pkid: 29, return_codes: [QoS1] }
+2021-02-17T20:20:08.696284930Z  [2021-02-17T20:20:08Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:08.903755925Z  [2021-02-17T20:20:08Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:09.007663425Z  [2021-02-17T20:20:09Z INFO  dt_instance] SubAck { pkid: 30, return_codes: [QoS1] }
+2021-02-17T20:20:09.108987641Z  [2021-02-17T20:20:09Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:09.316560880Z  [2021-02-17T20:20:09Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:09.418519180Z  [2021-02-17T20:20:09Z INFO  dt_instance] SubAck { pkid: 31, return_codes: [QoS1] }
+2021-02-17T20:20:09.521867075Z  [2021-02-17T20:20:09Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:09.728628164Z  [2021-02-17T20:20:09Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:09.831209783Z  [2021-02-17T20:20:09Z INFO  dt_instance] SubAck { pkid: 32, return_codes: [QoS1] }
+2021-02-17T20:20:09.933681983Z  [2021-02-17T20:20:09Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:10.140923257Z  [2021-02-17T20:20:10Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:10.243705225Z  [2021-02-17T20:20:10Z INFO  dt_instance] SubAck { pkid: 33, return_codes: [QoS1] }
+2021-02-17T20:20:10.347077283Z  [2021-02-17T20:20:10Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:10.553326070Z  [2021-02-17T20:20:10Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:10.657347467Z  [2021-02-17T20:20:10Z INFO  dt_instance] SubAck { pkid: 34, return_codes: [QoS1] }
+2021-02-17T20:20:10.758950474Z  [2021-02-17T20:20:10Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:10.965438141Z  [2021-02-17T20:20:10Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:11.067909712Z  [2021-02-17T20:20:11Z INFO  dt_instance] SubAck { pkid: 35, return_codes: [QoS1] }
+2021-02-17T20:20:11.170581759Z  [2021-02-17T20:20:11Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:11.376558152Z  [2021-02-17T20:20:11Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:11.480349332Z  [2021-02-17T20:20:11Z INFO  dt_instance] SubAck { pkid: 36, return_codes: [QoS1] }
+2021-02-17T20:20:11.582610345Z  [2021-02-17T20:20:11Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:11.789517934Z  [2021-02-17T20:20:11Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:11.892349609Z  [2021-02-17T20:20:11Z INFO  dt_instance] SubAck { pkid: 37, return_codes: [QoS1] }
+2021-02-17T20:20:11.994588380Z  [2021-02-17T20:20:11Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:12.201883684Z  [2021-02-17T20:20:12Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:12.305095769Z  [2021-02-17T20:20:12Z INFO  dt_instance] SubAck { pkid: 38, return_codes: [QoS1] }
+2021-02-17T20:20:12.406436754Z  [2021-02-17T20:20:12Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:12.612898320Z  [2021-02-17T20:20:12Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:12.715384017Z  [2021-02-17T20:20:12Z INFO  dt_instance] SubAck { pkid: 39, return_codes: [QoS1] }
+2021-02-17T20:20:12.818640193Z  [2021-02-17T20:20:12Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:13.024961236Z  [2021-02-17T20:20:13Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:13.126678984Z  [2021-02-17T20:20:13Z INFO  dt_instance] SubAck { pkid: 40, return_codes: [QoS1] }
+2021-02-17T20:20:13.229617137Z  [2021-02-17T20:20:13Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:13.436084629Z  [2021-02-17T20:20:13Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:13.539287345Z  [2021-02-17T20:20:13Z INFO  dt_instance] SubAck { pkid: 41, return_codes: [QoS1] }
+2021-02-17T20:20:13.642096395Z  [2021-02-17T20:20:13Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:13.849450355Z  [2021-02-17T20:20:13Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:13.953344248Z  [2021-02-17T20:20:13Z INFO  dt_instance] SubAck { pkid: 42, return_codes: [QoS1] }
+2021-02-17T20:20:14.055445650Z  [2021-02-17T20:20:14Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:14.261838083Z  [2021-02-17T20:20:14Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:14.364734233Z  [2021-02-17T20:20:14Z INFO  dt_instance] SubAck { pkid: 43, return_codes: [QoS1] }
+2021-02-17T20:20:14.466404631Z  [2021-02-17T20:20:14Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:14.672049894Z  [2021-02-17T20:20:14Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:14.775046590Z  [2021-02-17T20:20:14Z INFO  dt_instance] SubAck { pkid: 44, return_codes: [QoS1] }
+2021-02-17T20:20:14.877454963Z  [2021-02-17T20:20:14Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:15.083599385Z  [2021-02-17T20:20:15Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:15.187487694Z  [2021-02-17T20:20:15Z INFO  dt_instance] SubAck { pkid: 45, return_codes: [QoS1] }
+2021-02-17T20:20:15.288361500Z  [2021-02-17T20:20:15Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:15.496030218Z  [2021-02-17T20:20:15Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:15.598687890Z  [2021-02-17T20:20:15Z INFO  dt_instance] SubAck { pkid: 46, return_codes: [QoS1] }
+2021-02-17T20:20:15.701155662Z  [2021-02-17T20:20:15Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:15.909284479Z  [2021-02-17T20:20:15Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:16.012036134Z  [2021-02-17T20:20:16Z INFO  dt_instance] SubAck { pkid: 47, return_codes: [QoS1] }
+2021-02-17T20:20:16.115082660Z  [2021-02-17T20:20:16Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:16.323559152Z  [2021-02-17T20:20:16Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:16.425572830Z  [2021-02-17T20:20:16Z INFO  dt_instance] SubAck { pkid: 48, return_codes: [QoS1] }
+2021-02-17T20:20:16.529700951Z  [2021-02-17T20:20:16Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:16.737680840Z  [2021-02-17T20:20:16Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:16.841465842Z  [2021-02-17T20:20:16Z INFO  dt_instance] SubAck { pkid: 49, return_codes: [QoS1] }
+2021-02-17T20:20:16.942336148Z  [2021-02-17T20:20:16Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:17.149939702Z  [2021-02-17T20:20:17Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:17.252947042Z  [2021-02-17T20:20:17Z INFO  dt_instance] SubAck { pkid: 50, return_codes: [QoS1] }
+2021-02-17T20:20:17.355161021Z  [2021-02-17T20:20:17Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:17.561683483Z  [2021-02-17T20:20:17Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:17.665285215Z  [2021-02-17T20:20:17Z INFO  dt_instance] SubAck { pkid: 51, return_codes: [QoS1] }
+2021-02-17T20:20:17.767023272Z  [2021-02-17T20:20:17Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:17.974809341Z  [2021-02-17T20:20:17Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:18.077709176Z  [2021-02-17T20:20:18Z INFO  dt_instance] SubAck { pkid: 52, return_codes: [QoS1] }
+2021-02-17T20:20:18.179427464Z  [2021-02-17T20:20:18Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:18.386417382Z  [2021-02-17T20:20:18Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:18.488975357Z  [2021-02-17T20:20:18Z INFO  dt_instance] SubAck { pkid: 53, return_codes: [QoS1] }
+2021-02-17T20:20:18.590713558Z  [2021-02-17T20:20:18Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:18.798453000Z  [2021-02-17T20:20:18Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:18.901289753Z  [2021-02-17T20:20:18Z INFO  dt_instance] SubAck { pkid: 54, return_codes: [QoS1] }
+2021-02-17T20:20:19.002385609Z  [2021-02-17T20:20:19Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:19.209228471Z  [2021-02-17T20:20:19Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:19.310685708Z  [2021-02-17T20:20:19Z INFO  dt_instance] SubAck { pkid: 55, return_codes: [QoS1] }
+2021-02-17T20:20:19.414927349Z  [2021-02-17T20:20:19Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:19.621048292Z  [2021-02-17T20:20:19Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:19.722861311Z  [2021-02-17T20:20:19Z INFO  dt_instance] SubAck { pkid: 56, return_codes: [QoS1] }
+2021-02-17T20:20:19.828001917Z  [2021-02-17T20:20:19Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:20.034151367Z  [2021-02-17T20:20:20Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:20.135421487Z  [2021-02-17T20:20:20Z INFO  dt_instance] SubAck { pkid: 57, return_codes: [QoS1] }
+2021-02-17T20:20:20.237614152Z  [2021-02-17T20:20:20Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:20.444233527Z  [2021-02-17T20:20:20Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:20.547491076Z  [2021-02-17T20:20:20Z INFO  dt_instance] SubAck { pkid: 58, return_codes: [QoS1] }
+2021-02-17T20:20:20.650585489Z  [2021-02-17T20:20:20Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:20.856647175Z  [2021-02-17T20:20:20Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:20.960454972Z  [2021-02-17T20:20:20Z INFO  dt_instance] SubAck { pkid: 59, return_codes: [QoS1] }
+2021-02-17T20:20:21.061387343Z  [2021-02-17T20:20:21Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:21.270369379Z  [2021-02-17T20:20:21Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:21.372963423Z  [2021-02-17T20:20:21Z INFO  dt_instance] SubAck { pkid: 60, return_codes: [QoS1] }
+2021-02-17T20:20:21.474632613Z  [2021-02-17T20:20:21Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:21.683042835Z  [2021-02-17T20:20:21Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:21.784980527Z  [2021-02-17T20:20:21Z INFO  dt_instance] SubAck { pkid: 61, return_codes: [QoS1] }
+2021-02-17T20:20:21.887571640Z  [2021-02-17T20:20:21Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:22.094480529Z  [2021-02-17T20:20:22Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:22.197260509Z  [2021-02-17T20:20:22Z INFO  dt_instance] SubAck { pkid: 62, return_codes: [QoS1] }
+2021-02-17T20:20:22.298603415Z  [2021-02-17T20:20:22Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:22.506516644Z  [2021-02-17T20:20:22Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:22.609099364Z  [2021-02-17T20:20:22Z INFO  dt_instance] SubAck { pkid: 63, return_codes: [QoS1] }
+2021-02-17T20:20:22.712442850Z  [2021-02-17T20:20:22Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:22.919847824Z  [2021-02-17T20:20:22Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:23.021993208Z  [2021-02-17T20:20:23Z INFO  dt_instance] SubAck { pkid: 64, return_codes: [QoS1] }
+2021-02-17T20:20:23.125731734Z  [2021-02-17T20:20:23Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:23.333358675Z  [2021-02-17T20:20:23Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:23.435071139Z  [2021-02-17T20:20:23Z INFO  dt_instance] SubAck { pkid: 65, return_codes: [QoS1] }
+2021-02-17T20:20:23.537600010Z  [2021-02-17T20:20:23Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:23.744474495Z  [2021-02-17T20:20:23Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:23.847244817Z  [2021-02-17T20:20:23Z INFO  dt_instance] SubAck { pkid: 66, return_codes: [QoS1] }
+2021-02-17T20:20:23.950308221Z  [2021-02-17T20:20:23Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:24.158694162Z  [2021-02-17T20:20:24Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:24.262519280Z  [2021-02-17T20:20:24Z INFO  dt_instance] SubAck { pkid: 67, return_codes: [QoS1] }
+2021-02-17T20:20:24.362903237Z  [2021-02-17T20:20:24Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:24.569314646Z  [2021-02-17T20:20:24Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:24.672311151Z  [2021-02-17T20:20:24Z INFO  dt_instance] SubAck { pkid: 68, return_codes: [QoS1] }
+2021-02-17T20:20:24.774568740Z  [2021-02-17T20:20:24Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:24.980900494Z  [2021-02-17T20:20:24Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:25.082749274Z  [2021-02-17T20:20:25Z INFO  dt_instance] SubAck { pkid: 69, return_codes: [QoS1] }
+2021-02-17T20:20:25.186641977Z  [2021-02-17T20:20:25Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:25.394190336Z  [2021-02-17T20:20:25Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:25.496161647Z  [2021-02-17T20:20:25Z INFO  dt_instance] SubAck { pkid: 70, return_codes: [QoS1] }
+2021-02-17T20:20:25.598195647Z  [2021-02-17T20:20:25Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:25.805921055Z  [2021-02-17T20:20:25Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:25.908764849Z  [2021-02-17T20:20:25Z INFO  dt_instance] SubAck { pkid: 71, return_codes: [QoS1] }
+2021-02-17T20:20:26.010817316Z  [2021-02-17T20:20:26Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:26.217861821Z  [2021-02-17T20:20:26Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:26.320868899Z  [2021-02-17T20:20:26Z INFO  dt_instance] SubAck { pkid: 72, return_codes: [QoS1] }
+2021-02-17T20:20:26.421998028Z  [2021-02-17T20:20:26Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:26.628776109Z  [2021-02-17T20:20:26Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:26.731866438Z  [2021-02-17T20:20:26Z INFO  dt_instance] SubAck { pkid: 73, return_codes: [QoS1] }
+2021-02-17T20:20:26.832963886Z  [2021-02-17T20:20:26Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:27.039737407Z  [2021-02-17T20:20:27Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:27.143438949Z  [2021-02-17T20:20:27Z INFO  dt_instance] SubAck { pkid: 74, return_codes: [QoS1] }
+2021-02-17T20:20:27.244347737Z  [2021-02-17T20:20:27Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:27.450981527Z  [2021-02-17T20:20:27Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:27.552921415Z  [2021-02-17T20:20:27Z INFO  dt_instance] SubAck { pkid: 75, return_codes: [QoS1] }
+2021-02-17T20:20:27.656761199Z  [2021-02-17T20:20:27Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:27.863685732Z  [2021-02-17T20:20:27Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:27.967299871Z  [2021-02-17T20:20:27Z INFO  dt_instance] SubAck { pkid: 76, return_codes: [QoS1] }
+2021-02-17T20:20:28.068277445Z  [2021-02-17T20:20:28Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:28.275241393Z  [2021-02-17T20:20:28Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:28.377231269Z  [2021-02-17T20:20:28Z INFO  dt_instance] SubAck { pkid: 77, return_codes: [QoS1] }
+2021-02-17T20:20:28.481479663Z  [2021-02-17T20:20:28Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:28.688884889Z  [2021-02-17T20:20:28Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:28.792436489Z  [2021-02-17T20:20:28Z INFO  dt_instance] SubAck { pkid: 78, return_codes: [QoS1] }
+2021-02-17T20:20:28.893165909Z  [2021-02-17T20:20:28Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:29.100470191Z  [2021-02-17T20:20:29Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:29.204627661Z  [2021-02-17T20:20:29Z INFO  dt_instance] SubAck { pkid: 79, return_codes: [QoS1] }
+2021-02-17T20:20:29.305705967Z  [2021-02-17T20:20:29Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:29.511430731Z  [2021-02-17T20:20:29Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:29.615371919Z  [2021-02-17T20:20:29Z INFO  dt_instance] SubAck { pkid: 80, return_codes: [QoS1] }
+2021-02-17T20:20:29.718069771Z  [2021-02-17T20:20:29Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:29.924136177Z  [2021-02-17T20:20:29Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:30.027096761Z  [2021-02-17T20:20:30Z INFO  dt_instance] SubAck { pkid: 81, return_codes: [QoS1] }
+2021-02-17T20:20:30.128688145Z  [2021-02-17T20:20:30Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:30.334897807Z  [2021-02-17T20:20:30Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:30.436759526Z  [2021-02-17T20:20:30Z INFO  dt_instance] SubAck { pkid: 82, return_codes: [QoS1] }
+2021-02-17T20:20:30.539750471Z  [2021-02-17T20:20:30Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:30.746843477Z  [2021-02-17T20:20:30Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:30.848936365Z  [2021-02-17T20:20:30Z INFO  dt_instance] SubAck { pkid: 83, return_codes: [QoS1] }
+2021-02-17T20:20:30.952880190Z  [2021-02-17T20:20:30Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:31.159456910Z  [2021-02-17T20:20:31Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:31.261624229Z  [2021-02-17T20:20:31Z INFO  dt_instance] SubAck { pkid: 84, return_codes: [QoS1] }
+2021-02-17T20:20:31.365131728Z  [2021-02-17T20:20:31Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:31.572953760Z  [2021-02-17T20:20:31Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:31.674986728Z  [2021-02-17T20:20:31Z INFO  dt_instance] SubAck { pkid: 85, return_codes: [QoS1] }
+2021-02-17T20:20:31.778165103Z  [2021-02-17T20:20:31Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:31.984825775Z  [2021-02-17T20:20:31Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:32.087711931Z  [2021-02-17T20:20:32Z INFO  dt_instance] SubAck { pkid: 86, return_codes: [QoS1] }
+2021-02-17T20:20:32.191063221Z  [2021-02-17T20:20:32Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:32.398290893Z  [2021-02-17T20:20:32Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:32.499795493Z  [2021-02-17T20:20:32Z INFO  dt_instance] SubAck { pkid: 87, return_codes: [QoS1] }
+2021-02-17T20:20:32.603875916Z  [2021-02-17T20:20:32Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:32.810366032Z  [2021-02-17T20:20:32Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:32.913125713Z  [2021-02-17T20:20:32Z INFO  dt_instance] SubAck { pkid: 88, return_codes: [QoS1] }
+2021-02-17T20:20:33.016257191Z  [2021-02-17T20:20:33Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:33.222426112Z  [2021-02-17T20:20:33Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:33.326371763Z  [2021-02-17T20:20:33Z INFO  dt_instance] SubAck { pkid: 89, return_codes: [QoS1] }
+2021-02-17T20:20:33.428265312Z  [2021-02-17T20:20:33Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:33.634535344Z  [2021-02-17T20:20:33Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:33.737441510Z  [2021-02-17T20:20:33Z INFO  dt_instance] SubAck { pkid: 90, return_codes: [QoS1] }
+2021-02-17T20:20:33.839565213Z  [2021-02-17T20:20:33Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:34.047243381Z  [2021-02-17T20:20:34Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:34.149198543Z  [2021-02-17T20:20:34Z INFO  dt_instance] SubAck { pkid: 91, return_codes: [QoS1] }
+2021-02-17T20:20:34.253590109Z  [2021-02-17T20:20:34Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:34.460968642Z  [2021-02-17T20:20:34Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:34.562821720Z  [2021-02-17T20:20:34Z INFO  dt_instance] SubAck { pkid: 92, return_codes: [QoS1] }
+2021-02-17T20:20:34.665194782Z  [2021-02-17T20:20:34Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:34.871476416Z  [2021-02-17T20:20:34Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:34.974433237Z  [2021-02-17T20:20:34Z INFO  dt_instance] SubAck { pkid: 93, return_codes: [QoS1] }
+2021-02-17T20:20:35.077599290Z  [2021-02-17T20:20:35Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:35.285040994Z  [2021-02-17T20:20:35Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:35.387688359Z  [2021-02-17T20:20:35Z INFO  dt_instance] SubAck { pkid: 94, return_codes: [QoS1] }
+2021-02-17T20:20:35.490077353Z  [2021-02-17T20:20:35Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:35.696246267Z  [2021-02-17T20:20:35Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:35.798249727Z  [2021-02-17T20:20:35Z INFO  dt_instance] SubAck { pkid: 95, return_codes: [QoS1] }
+2021-02-17T20:20:35.901282999Z  [2021-02-17T20:20:35Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:36.107405243Z  [2021-02-17T20:20:36Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:36.210178973Z  [2021-02-17T20:20:36Z INFO  dt_instance] SubAck { pkid: 96, return_codes: [QoS1] }
+2021-02-17T20:20:36.311403721Z  [2021-02-17T20:20:36Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:36.517317782Z  [2021-02-17T20:20:36Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:36.620337074Z  [2021-02-17T20:20:36Z INFO  dt_instance] SubAck { pkid: 97, return_codes: [QoS1] }
+2021-02-17T20:20:36.724534446Z  [2021-02-17T20:20:36Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:36.930953756Z  [2021-02-17T20:20:36Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:37.033748699Z  [2021-02-17T20:20:37Z INFO  dt_instance] SubAck { pkid: 98, return_codes: [QoS1] }
+2021-02-17T20:20:37.135974924Z  [2021-02-17T20:20:37Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:37.342183168Z  [2021-02-17T20:20:37Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:37.443837106Z  [2021-02-17T20:20:37Z INFO  dt_instance] SubAck { pkid: 99, return_codes: [QoS1] }
+2021-02-17T20:20:37.547208266Z  [2021-02-17T20:20:37Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:37.752916955Z  [2021-02-17T20:20:37Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:37.854817659Z  [2021-02-17T20:20:37Z INFO  dt_instance] SubAck { pkid: 100, return_codes: [QoS1] }
+2021-02-17T20:20:37.957974012Z  [2021-02-17T20:20:37Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:38.164497033Z  [2021-02-17T20:20:38Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:38.266912506Z  [2021-02-17T20:20:38Z INFO  dt_instance] SubAck { pkid: 1, return_codes: [QoS1] }
+2021-02-17T20:20:38.369840388Z  [2021-02-17T20:20:38Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:38.575880092Z  [2021-02-17T20:20:38Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:38.677901284Z  [2021-02-17T20:20:38Z INFO  dt_instance] SubAck { pkid: 2, return_codes: [QoS1] }
+2021-02-17T20:20:38.781476073Z  [2021-02-17T20:20:38Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:38.987679502Z  [2021-02-17T20:20:38Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:39.091400904Z  [2021-02-17T20:20:39Z INFO  dt_instance] SubAck { pkid: 3, return_codes: [QoS1] }
+2021-02-17T20:20:39.193575434Z  [2021-02-17T20:20:39Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:39.400173584Z  [2021-02-17T20:20:39Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:39.502085296Z  [2021-02-17T20:20:39Z INFO  dt_instance] SubAck { pkid: 4, return_codes: [QoS1] }
+2021-02-17T20:20:39.604454161Z  [2021-02-17T20:20:39Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:39.811669735Z  [2021-02-17T20:20:39Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:39.914603772Z  [2021-02-17T20:20:39Z INFO  dt_instance] SubAck { pkid: 5, return_codes: [QoS1] }
+2021-02-17T20:20:40.016917441Z  [2021-02-17T20:20:40Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:40.222608125Z  [2021-02-17T20:20:40Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:40.324902153Z  [2021-02-17T20:20:40Z INFO  dt_instance] SubAck { pkid: 6, return_codes: [QoS1] }
+2021-02-17T20:20:40.428210351Z  [2021-02-17T20:20:40Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:40.635066593Z  [2021-02-17T20:20:40Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:40.737626000Z  [2021-02-17T20:20:40Z INFO  dt_instance] SubAck { pkid: 7, return_codes: [QoS1] }
+2021-02-17T20:20:40.839878642Z  [2021-02-17T20:20:40Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:41.045554223Z  [2021-02-17T20:20:41Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:41.147915840Z  [2021-02-17T20:20:41Z INFO  dt_instance] SubAck { pkid: 8, return_codes: [QoS1] }
+2021-02-17T20:20:41.250695596Z  [2021-02-17T20:20:41Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:41.454978259Z  [2021-02-17T20:20:41Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:41.556719660Z  [2021-02-17T20:20:41Z INFO  dt_instance] SubAck { pkid: 9, return_codes: [QoS1] }
+2021-02-17T20:20:41.660277134Z  [2021-02-17T20:20:41Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:41.866719091Z  [2021-02-17T20:20:41Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:41.968676465Z  [2021-02-17T20:20:41Z INFO  dt_instance] SubAck { pkid: 10, return_codes: [QoS1] }
+2021-02-17T20:20:42.073587369Z  [2021-02-17T20:20:42Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:42.280334523Z  [2021-02-17T20:20:42Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:42.382223564Z  [2021-02-17T20:20:42Z INFO  dt_instance] SubAck { pkid: 11, return_codes: [QoS1] }
+2021-02-17T20:20:42.485176132Z  [2021-02-17T20:20:42Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:42.692468284Z  [2021-02-17T20:20:42Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:42.795696219Z  [2021-02-17T20:20:42Z INFO  dt_instance] SubAck { pkid: 12, return_codes: [QoS1] }
+2021-02-17T20:20:42.897574552Z  [2021-02-17T20:20:42Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:43.106201698Z  [2021-02-17T20:20:43Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:43.209135045Z  [2021-02-17T20:20:43Z INFO  dt_instance] SubAck { pkid: 13, return_codes: [QoS1] }
+2021-02-17T20:20:43.311658607Z  [2021-02-17T20:20:43Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:43.517840481Z  [2021-02-17T20:20:43Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:43.621206014Z  [2021-02-17T20:20:43Z INFO  dt_instance] SubAck { pkid: 14, return_codes: [QoS1] }
+2021-02-17T20:20:43.722929556Z  [2021-02-17T20:20:43Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:43.928940809Z  [2021-02-17T20:20:43Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:44.030577178Z  [2021-02-17T20:20:44Z INFO  dt_instance] SubAck { pkid: 15, return_codes: [QoS1] }
+2021-02-17T20:20:44.134384842Z  [2021-02-17T20:20:44Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:44.341098199Z  [2021-02-17T20:20:44Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:44.442911832Z  [2021-02-17T20:20:44Z INFO  dt_instance] SubAck { pkid: 16, return_codes: [QoS1] }
+2021-02-17T20:20:44.546099391Z  [2021-02-17T20:20:44Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:44.752458464Z  [2021-02-17T20:20:44Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:44.856654222Z  [2021-02-17T20:20:44Z INFO  dt_instance] SubAck { pkid: 17, return_codes: [QoS1] }
+2021-02-17T20:20:44.958243464Z  [2021-02-17T20:20:44Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:45.163993902Z  [2021-02-17T20:20:45Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:45.267480828Z  [2021-02-17T20:20:45Z INFO  dt_instance] SubAck { pkid: 18, return_codes: [QoS1] }
+2021-02-17T20:20:45.369503118Z  [2021-02-17T20:20:45Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:45.575658204Z  [2021-02-17T20:20:45Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:45.677983673Z  [2021-02-17T20:20:45Z INFO  dt_instance] SubAck { pkid: 19, return_codes: [QoS1] }
+2021-02-17T20:20:45.780364342Z  [2021-02-17T20:20:45Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:45.986069878Z  [2021-02-17T20:20:45Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:46.087921177Z  [2021-02-17T20:20:46Z INFO  dt_instance] SubAck { pkid: 20, return_codes: [QoS1] }
+2021-02-17T20:20:46.191615455Z  [2021-02-17T20:20:46Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:46.397464916Z  [2021-02-17T20:20:46Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:46.500254189Z  [2021-02-17T20:20:46Z INFO  dt_instance] SubAck { pkid: 21, return_codes: [QoS1] }
+2021-02-17T20:20:46.602743333Z  [2021-02-17T20:20:46Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:46.810710839Z  [2021-02-17T20:20:46Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:46.914387906Z  [2021-02-17T20:20:46Z INFO  dt_instance] SubAck { pkid: 22, return_codes: [QoS1] }
+2021-02-17T20:20:47.015618220Z  [2021-02-17T20:20:47Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:47.223986573Z  [2021-02-17T20:20:47Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:47.325998848Z  [2021-02-17T20:20:47Z INFO  dt_instance] SubAck { pkid: 23, return_codes: [QoS1] }
+2021-02-17T20:20:47.428586310Z  [2021-02-17T20:20:47Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:47.636204444Z  [2021-02-17T20:20:47Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:47.739008720Z  [2021-02-17T20:20:47Z INFO  dt_instance] SubAck { pkid: 24, return_codes: [QoS1] }
+2021-02-17T20:20:47.842391783Z  [2021-02-17T20:20:47Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:48.050423884Z  [2021-02-17T20:20:48Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:48.153650462Z  [2021-02-17T20:20:48Z INFO  dt_instance] SubAck { pkid: 25, return_codes: [QoS1] }
+2021-02-17T20:20:48.255024149Z  [2021-02-17T20:20:48Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:48.462568922Z  [2021-02-17T20:20:48Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:48.565565275Z  [2021-02-17T20:20:48Z INFO  dt_instance] SubAck { pkid: 26, return_codes: [QoS1] }
+2021-02-17T20:20:48.667516693Z  [2021-02-17T20:20:48Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:48.875592868Z  [2021-02-17T20:20:48Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:48.978509700Z  [2021-02-17T20:20:48Z INFO  dt_instance] SubAck { pkid: 27, return_codes: [QoS1] }
+2021-02-17T20:20:49.081275315Z  [2021-02-17T20:20:49Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:49.289307152Z  [2021-02-17T20:20:49Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:49.391785065Z  [2021-02-17T20:20:49Z INFO  dt_instance] SubAck { pkid: 28, return_codes: [QoS1] }
+2021-02-17T20:20:49.493896390Z  [2021-02-17T20:20:49Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:49.701230304Z  [2021-02-17T20:20:49Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:49.803875009Z  [2021-02-17T20:20:49Z INFO  dt_instance] SubAck { pkid: 29, return_codes: [QoS1] }
+2021-02-17T20:20:49.904477316Z  [2021-02-17T20:20:49Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:50.111463647Z  [2021-02-17T20:20:50Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:50.214521241Z  [2021-02-17T20:20:50Z INFO  dt_instance] SubAck { pkid: 30, return_codes: [QoS1] }
+2021-02-17T20:20:50.316387946Z  [2021-02-17T20:20:50Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:50.522760388Z  [2021-02-17T20:20:50Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:50.624874947Z  [2021-02-17T20:20:50Z INFO  dt_instance] SubAck { pkid: 31, return_codes: [QoS1] }
+2021-02-17T20:20:50.726174733Z  [2021-02-17T20:20:50Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:50.933848799Z  [2021-02-17T20:20:50Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:51.036537125Z  [2021-02-17T20:20:51Z INFO  dt_instance] SubAck { pkid: 32, return_codes: [QoS1] }
+2021-02-17T20:20:51.139714406Z  [2021-02-17T20:20:51Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:51.346028328Z  [2021-02-17T20:20:51Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:51.448189789Z  [2021-02-17T20:20:51Z INFO  dt_instance] SubAck { pkid: 33, return_codes: [QoS1] }
+2021-02-17T20:20:51.551176187Z  [2021-02-17T20:20:51Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:51.758263062Z  [2021-02-17T20:20:51Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:51.862537023Z  [2021-02-17T20:20:51Z INFO  dt_instance] SubAck { pkid: 34, return_codes: [QoS1] }
+2021-02-17T20:20:51.962880833Z  [2021-02-17T20:20:51Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:52.168391226Z  [2021-02-17T20:20:52Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:52.271938262Z  [2021-02-17T20:20:52Z INFO  dt_instance] SubAck { pkid: 35, return_codes: [QoS1] }
+2021-02-17T20:20:52.374203877Z  [2021-02-17T20:20:52Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:52.581140863Z  [2021-02-17T20:20:52Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:52.683218713Z  [2021-02-17T20:20:52Z INFO  dt_instance] SubAck { pkid: 36, return_codes: [QoS1] }
+2021-02-17T20:20:52.786645624Z  [2021-02-17T20:20:52Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:52.993613657Z  [2021-02-17T20:20:52Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:53.095740252Z  [2021-02-17T20:20:53Z INFO  dt_instance] SubAck { pkid: 37, return_codes: [QoS1] }
+2021-02-17T20:20:53.199286912Z  [2021-02-17T20:20:53Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:53.405491752Z  [2021-02-17T20:20:53Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:53.508177885Z  [2021-02-17T20:20:53Z INFO  dt_instance] SubAck { pkid: 38, return_codes: [QoS1] }
+2021-02-17T20:20:53.610387228Z  [2021-02-17T20:20:53Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:53.816433494Z  [2021-02-17T20:20:53Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:53.919326671Z  [2021-02-17T20:20:53Z INFO  dt_instance] SubAck { pkid: 39, return_codes: [QoS1] }
+2021-02-17T20:20:54.021254568Z  [2021-02-17T20:20:54Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:54.227659257Z  [2021-02-17T20:20:54Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:54.331274446Z  [2021-02-17T20:20:54Z INFO  dt_instance] SubAck { pkid: 40, return_codes: [QoS1] }
+2021-02-17T20:20:54.433600769Z  [2021-02-17T20:20:54Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:54.640810886Z  [2021-02-17T20:20:54Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:54.743163530Z  [2021-02-17T20:20:54Z INFO  dt_instance] SubAck { pkid: 41, return_codes: [QoS1] }
+2021-02-17T20:20:54.845494378Z  [2021-02-17T20:20:54Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:55.052596896Z  [2021-02-17T20:20:55Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:55.155161053Z  [2021-02-17T20:20:55Z INFO  dt_instance] SubAck { pkid: 42, return_codes: [QoS1] }
+2021-02-17T20:20:55.257359653Z  [2021-02-17T20:20:55Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:55.463718583Z  [2021-02-17T20:20:55Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:55.566633136Z  [2021-02-17T20:20:55Z INFO  dt_instance] SubAck { pkid: 43, return_codes: [QoS1] }
+2021-02-17T20:20:55.668369959Z  [2021-02-17T20:20:55Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:55.874595892Z  [2021-02-17T20:20:55Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:55.978336525Z  [2021-02-17T20:20:55Z INFO  dt_instance] SubAck { pkid: 44, return_codes: [QoS1] }
+2021-02-17T20:20:56.079492397Z  [2021-02-17T20:20:56Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:56.286276709Z  [2021-02-17T20:20:56Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:56.388301705Z  [2021-02-17T20:20:56Z INFO  dt_instance] SubAck { pkid: 45, return_codes: [QoS1] }
+2021-02-17T20:20:56.491188668Z  [2021-02-17T20:20:56Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:56.697732501Z  [2021-02-17T20:20:56Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:56.800612548Z  [2021-02-17T20:20:56Z INFO  dt_instance] SubAck { pkid: 46, return_codes: [QoS1] }
+2021-02-17T20:20:56.903167482Z  [2021-02-17T20:20:56Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:57.109501664Z  [2021-02-17T20:20:57Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:57.211857669Z  [2021-02-17T20:20:57Z INFO  dt_instance] SubAck { pkid: 47, return_codes: [QoS1] }
+2021-02-17T20:20:57.314758710Z  [2021-02-17T20:20:57Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:57.521717717Z  [2021-02-17T20:20:57Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:57.624656572Z  [2021-02-17T20:20:57Z INFO  dt_instance] SubAck { pkid: 48, return_codes: [QoS1] }
+2021-02-17T20:20:57.727474108Z  [2021-02-17T20:20:57Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:57.933144512Z  [2021-02-17T20:20:57Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:58.035745293Z  [2021-02-17T20:20:58Z INFO  dt_instance] SubAck { pkid: 49, return_codes: [QoS1] }
+2021-02-17T20:20:58.138405019Z  [2021-02-17T20:20:58Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:58.345013068Z  [2021-02-17T20:20:58Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:58.446853420Z  [2021-02-17T20:20:58Z INFO  dt_instance] SubAck { pkid: 50, return_codes: [QoS1] }
+2021-02-17T20:20:58.550291063Z  [2021-02-17T20:20:58Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:58.757714568Z  [2021-02-17T20:20:58Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:58.860520206Z  [2021-02-17T20:20:58Z INFO  dt_instance] SubAck { pkid: 51, return_codes: [QoS1] }
+2021-02-17T20:20:58.962544269Z  [2021-02-17T20:20:58Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:59.169359815Z  [2021-02-17T20:20:59Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:59.272299127Z  [2021-02-17T20:20:59Z INFO  dt_instance] SubAck { pkid: 52, return_codes: [QoS1] }
+2021-02-17T20:20:59.375241886Z  [2021-02-17T20:20:59Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:59.582237339Z  [2021-02-17T20:20:59Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:20:59.684951636Z  [2021-02-17T20:20:59Z INFO  dt_instance] SubAck { pkid: 53, return_codes: [QoS1] }
+2021-02-17T20:20:59.786419403Z  [2021-02-17T20:20:59Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:20:59.992253937Z  [2021-02-17T20:20:59Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:00.094305273Z  [2021-02-17T20:21:00Z INFO  dt_instance] SubAck { pkid: 54, return_codes: [QoS1] }
+2021-02-17T20:21:00.198450451Z  [2021-02-17T20:21:00Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:00.404702680Z  [2021-02-17T20:21:00Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:00.507068428Z  [2021-02-17T20:21:00Z INFO  dt_instance] SubAck { pkid: 55, return_codes: [QoS1] }
+2021-02-17T20:21:00.609531277Z  [2021-02-17T20:21:00Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:00.815213314Z  [2021-02-17T20:21:00Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:00.917746337Z  [2021-02-17T20:21:00Z INFO  dt_instance] SubAck { pkid: 56, return_codes: [QoS1] }
+2021-02-17T20:21:01.020578636Z  [2021-02-17T20:21:01Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:01.227503251Z  [2021-02-17T20:21:01Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:01.331388076Z  [2021-02-17T20:21:01Z INFO  dt_instance] SubAck { pkid: 57, return_codes: [QoS1] }
+2021-02-17T20:21:01.432465151Z  [2021-02-17T20:21:01Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:01.639826786Z  [2021-02-17T20:21:01Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:01.742687612Z  [2021-02-17T20:21:01Z INFO  dt_instance] SubAck { pkid: 58, return_codes: [QoS1] }
+2021-02-17T20:21:01.846195434Z  [2021-02-17T20:21:01Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:02.053833357Z  [2021-02-17T20:21:02Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:02.156535573Z  [2021-02-17T20:21:02Z INFO  dt_instance] SubAck { pkid: 59, return_codes: [QoS1] }
+2021-02-17T20:21:02.257560896Z  [2021-02-17T20:21:02Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:02.464189256Z  [2021-02-17T20:21:02Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:02.565992172Z  [2021-02-17T20:21:02Z INFO  dt_instance] SubAck { pkid: 60, return_codes: [QoS1] }
+2021-02-17T20:21:02.669109372Z  [2021-02-17T20:21:02Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:02.875409121Z  [2021-02-17T20:21:02Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:02.978031001Z  [2021-02-17T20:21:02Z INFO  dt_instance] SubAck { pkid: 61, return_codes: [QoS1] }
+2021-02-17T20:21:03.081621881Z  [2021-02-17T20:21:03Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:03.288156282Z  [2021-02-17T20:21:03Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:03.390084008Z  [2021-02-17T20:21:03Z INFO  dt_instance] SubAck { pkid: 62, return_codes: [QoS1] }
+2021-02-17T20:21:03.493923409Z  [2021-02-17T20:21:03Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:03.700595072Z  [2021-02-17T20:21:03Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:03.804297963Z  [2021-02-17T20:21:03Z INFO  dt_instance] SubAck { pkid: 63, return_codes: [QoS1] }
+2021-02-17T20:21:03.905184497Z  [2021-02-17T20:21:03Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:04.112157902Z  [2021-02-17T20:21:04Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:04.213860703Z  [2021-02-17T20:21:04Z INFO  dt_instance] SubAck { pkid: 64, return_codes: [QoS1] }
+2021-02-17T20:21:04.317413664Z  [2021-02-17T20:21:04Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:04.524554310Z  [2021-02-17T20:21:04Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:04.627165260Z  [2021-02-17T20:21:04Z INFO  dt_instance] SubAck { pkid: 65, return_codes: [QoS1] }
+2021-02-17T20:21:04.730273349Z  [2021-02-17T20:21:04Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:04.936973523Z  [2021-02-17T20:21:04Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:05.038725832Z  [2021-02-17T20:21:05Z INFO  dt_instance] SubAck { pkid: 66, return_codes: [QoS1] }
+2021-02-17T20:21:05.142371713Z  [2021-02-17T20:21:05Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:05.349586161Z  [2021-02-17T20:21:05Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:05.453461412Z  [2021-02-17T20:21:05Z INFO  dt_instance] SubAck { pkid: 67, return_codes: [QoS1] }
+2021-02-17T20:21:05.553672793Z  [2021-02-17T20:21:05Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:05.759458703Z  [2021-02-17T20:21:05Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:05.863217059Z  [2021-02-17T20:21:05Z INFO  dt_instance] SubAck { pkid: 68, return_codes: [QoS1] }
+2021-02-17T20:21:05.965699723Z  [2021-02-17T20:21:05Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:06.172915289Z  [2021-02-17T20:21:06Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:06.275897739Z  [2021-02-17T20:21:06Z INFO  dt_instance] SubAck { pkid: 69, return_codes: [QoS1] }
+2021-02-17T20:21:06.377969216Z  [2021-02-17T20:21:06Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:06.585537739Z  [2021-02-17T20:21:06Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:06.688030087Z  [2021-02-17T20:21:06Z INFO  dt_instance] SubAck { pkid: 70, return_codes: [QoS1] }
+2021-02-17T20:21:06.790698318Z  [2021-02-17T20:21:06Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:06.997407828Z  [2021-02-17T20:21:06Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:07.101569775Z  [2021-02-17T20:21:07Z INFO  dt_instance] SubAck { pkid: 71, return_codes: [QoS1] }
+2021-02-17T20:21:07.201931950Z  [2021-02-17T20:21:07Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:07.408795409Z  [2021-02-17T20:21:07Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:07.511576730Z  [2021-02-17T20:21:07Z INFO  dt_instance] SubAck { pkid: 72, return_codes: [QoS1] }
+2021-02-17T20:21:07.614410236Z  [2021-02-17T20:21:07Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:07.821335086Z  [2021-02-17T20:21:07Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:07.923905576Z  [2021-02-17T20:21:07Z INFO  dt_instance] SubAck { pkid: 73, return_codes: [QoS1] }
+2021-02-17T20:21:08.026317346Z  [2021-02-17T20:21:08Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:08.234244310Z  [2021-02-17T20:21:08Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:08.337511757Z  [2021-02-17T20:21:08Z INFO  dt_instance] SubAck { pkid: 74, return_codes: [QoS1] }
+2021-02-17T20:21:08.439458786Z  [2021-02-17T20:21:08Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:08.647050785Z  [2021-02-17T20:21:08Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:08.750401449Z  [2021-02-17T20:21:08Z INFO  dt_instance] SubAck { pkid: 75, return_codes: [QoS1] }
+2021-02-17T20:21:08.851552012Z  [2021-02-17T20:21:08Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:09.059850303Z  [2021-02-17T20:21:09Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:09.162353708Z  [2021-02-17T20:21:09Z INFO  dt_instance] SubAck { pkid: 76, return_codes: [QoS1] }
+2021-02-17T20:21:09.265494205Z  [2021-02-17T20:21:09Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:09.473456500Z  [2021-02-17T20:21:09Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:09.576274317Z  [2021-02-17T20:21:09Z INFO  dt_instance] SubAck { pkid: 77, return_codes: [QoS1] }
+2021-02-17T20:21:09.678003742Z  [2021-02-17T20:21:09Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:09.885539631Z  [2021-02-17T20:21:09Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:09.988807265Z  [2021-02-17T20:21:09Z INFO  dt_instance] SubAck { pkid: 78, return_codes: [QoS1] }
+2021-02-17T20:21:10.090020006Z  [2021-02-17T20:21:10Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:10.297441226Z  [2021-02-17T20:21:10Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:10.400126389Z  [2021-02-17T20:21:10Z INFO  dt_instance] SubAck { pkid: 79, return_codes: [QoS1] }
+2021-02-17T20:21:10.502188208Z  [2021-02-17T20:21:10Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:10.708360557Z  [2021-02-17T20:21:10Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:10.811245854Z  [2021-02-17T20:21:10Z INFO  dt_instance] SubAck { pkid: 80, return_codes: [QoS1] }
+2021-02-17T20:21:10.913101344Z  [2021-02-17T20:21:10Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:11.120395410Z  [2021-02-17T20:21:11Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:11.223033067Z  [2021-02-17T20:21:11Z INFO  dt_instance] SubAck { pkid: 81, return_codes: [QoS1] }
+2021-02-17T20:21:11.327187184Z  [2021-02-17T20:21:11Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:11.532780272Z  [2021-02-17T20:21:11Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:11.635182749Z  [2021-02-17T20:21:11Z INFO  dt_instance] SubAck { pkid: 82, return_codes: [QoS1] }
+2021-02-17T20:21:11.738722717Z  [2021-02-17T20:21:11Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:11.944770828Z  [2021-02-17T20:21:11Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:12.048433972Z  [2021-02-17T20:21:12Z INFO  dt_instance] SubAck { pkid: 83, return_codes: [QoS1] }
+2021-02-17T20:21:12.150133259Z  [2021-02-17T20:21:12Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:12.358921001Z  [2021-02-17T20:21:12Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:12.462346572Z  [2021-02-17T20:21:12Z INFO  dt_instance] SubAck { pkid: 84, return_codes: [QoS1] }
+2021-02-17T20:21:12.563196247Z  [2021-02-17T20:21:12Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:12.771399806Z  [2021-02-17T20:21:12Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:12.873674314Z  [2021-02-17T20:21:12Z INFO  dt_instance] SubAck { pkid: 85, return_codes: [QoS1] }
+2021-02-17T20:21:12.975491067Z  [2021-02-17T20:21:12Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:13.183558028Z  [2021-02-17T20:21:13Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:13.286624083Z  [2021-02-17T20:21:13Z INFO  dt_instance] SubAck { pkid: 86, return_codes: [QoS1] }
+2021-02-17T20:21:13.388508722Z  [2021-02-17T20:21:13Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:13.596009869Z  [2021-02-17T20:21:13Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:13.698165213Z  [2021-02-17T20:21:13Z INFO  dt_instance] SubAck { pkid: 87, return_codes: [QoS1] }
+2021-02-17T20:21:13.801301685Z  [2021-02-17T20:21:13Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:14.007817371Z  [2021-02-17T20:21:14Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:14.111487438Z  [2021-02-17T20:21:14Z INFO  dt_instance] SubAck { pkid: 88, return_codes: [QoS1] }
+2021-02-17T20:21:14.214070328Z  [2021-02-17T20:21:14Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:14.420879748Z  [2021-02-17T20:21:14Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:14.523816312Z  [2021-02-17T20:21:14Z INFO  dt_instance] SubAck { pkid: 89, return_codes: [QoS1] }
+2021-02-17T20:21:14.627123210Z  [2021-02-17T20:21:14Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:14.833888358Z  [2021-02-17T20:21:14Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:14.936681301Z  [2021-02-17T20:21:14Z INFO  dt_instance] SubAck { pkid: 90, return_codes: [QoS1] }
+2021-02-17T20:21:15.038545186Z  [2021-02-17T20:21:15Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:15.245463828Z  [2021-02-17T20:21:15Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:15.348347863Z  [2021-02-17T20:21:15Z INFO  dt_instance] SubAck { pkid: 91, return_codes: [QoS1] }
+2021-02-17T20:21:15.450463896Z  [2021-02-17T20:21:15Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:15.657497459Z  [2021-02-17T20:21:15Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:15.760318313Z  [2021-02-17T20:21:15Z INFO  dt_instance] SubAck { pkid: 92, return_codes: [QoS1] }
+2021-02-17T20:21:15.862427701Z  [2021-02-17T20:21:15Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:16.068683267Z  [2021-02-17T20:21:16Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:16.171480834Z  [2021-02-17T20:21:16Z INFO  dt_instance] SubAck { pkid: 93, return_codes: [QoS1] }
+2021-02-17T20:21:16.274460937Z  [2021-02-17T20:21:16Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:16.481284922Z  [2021-02-17T20:21:16Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:16.584135750Z  [2021-02-17T20:21:16Z INFO  dt_instance] SubAck { pkid: 94, return_codes: [QoS1] }
+2021-02-17T20:21:16.687326844Z  [2021-02-17T20:21:16Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:16.894910239Z  [2021-02-17T20:21:16Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:16.997486191Z  [2021-02-17T20:21:16Z INFO  dt_instance] SubAck { pkid: 95, return_codes: [QoS1] }
+2021-02-17T20:21:17.099334228Z  [2021-02-17T20:21:17Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:17.305738343Z  [2021-02-17T20:21:17Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:17.408164656Z  [2021-02-17T20:21:17Z INFO  dt_instance] SubAck { pkid: 96, return_codes: [QoS1] }
+2021-02-17T20:21:17.511513798Z  [2021-02-17T20:21:17Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:17.718050865Z  [2021-02-17T20:21:17Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:17.820098724Z  [2021-02-17T20:21:17Z INFO  dt_instance] SubAck { pkid: 97, return_codes: [QoS1] }
+2021-02-17T20:21:17.924037120Z  [2021-02-17T20:21:17Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:18.129933886Z  [2021-02-17T20:21:18Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:18.232350949Z  [2021-02-17T20:21:18Z INFO  dt_instance] SubAck { pkid: 98, return_codes: [QoS1] }
+2021-02-17T20:21:18.334503266Z  [2021-02-17T20:21:18Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:18.541505571Z  [2021-02-17T20:21:18Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:18.644593689Z  [2021-02-17T20:21:18Z INFO  dt_instance] SubAck { pkid: 99, return_codes: [QoS1] }
+2021-02-17T20:21:18.748143031Z  [2021-02-17T20:21:18Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:18.953467492Z  [2021-02-17T20:21:18Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:19.056276978Z  [2021-02-17T20:21:19Z INFO  dt_instance] SubAck { pkid: 100, return_codes: [QoS1] }
+2021-02-17T20:21:19.158820135Z  [2021-02-17T20:21:19Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:19.365119025Z  [2021-02-17T20:21:19Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:19.467656809Z  [2021-02-17T20:21:19Z INFO  dt_instance] SubAck { pkid: 1, return_codes: [QoS1] }
+2021-02-17T20:21:19.570494245Z  [2021-02-17T20:21:19Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:19.776482333Z  [2021-02-17T20:21:19Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:19.879904421Z  [2021-02-17T20:21:19Z INFO  dt_instance] SubAck { pkid: 2, return_codes: [QoS1] }
+2021-02-17T20:21:19.982796021Z  [2021-02-17T20:21:19Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:20.189751252Z  [2021-02-17T20:21:20Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:20.292907692Z  [2021-02-17T20:21:20Z INFO  dt_instance] SubAck { pkid: 3, return_codes: [QoS1] }
+2021-02-17T20:21:20.395080349Z  [2021-02-17T20:21:20Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:20.603249242Z  [2021-02-17T20:21:20Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:20.704891010Z  [2021-02-17T20:21:20Z INFO  dt_instance] SubAck { pkid: 4, return_codes: [QoS1] }
+2021-02-17T20:21:20.807698899Z  [2021-02-17T20:21:20Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:21.014088088Z  [2021-02-17T20:21:21Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:21.115880655Z  [2021-02-17T20:21:21Z INFO  dt_instance] SubAck { pkid: 5, return_codes: [QoS1] }
+2021-02-17T20:21:21.220341967Z  [2021-02-17T20:21:21Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:21.426630257Z  [2021-02-17T20:21:21Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:21.530112437Z  [2021-02-17T20:21:21Z INFO  dt_instance] SubAck { pkid: 6, return_codes: [QoS1] }
+2021-02-17T20:21:21.630747392Z  [2021-02-17T20:21:21Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:21.836604327Z  [2021-02-17T20:21:21Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:21.940522495Z  [2021-02-17T20:21:21Z INFO  dt_instance] SubAck { pkid: 7, return_codes: [QoS1] }
+2021-02-17T20:21:22.042304565Z  [2021-02-17T20:21:22Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:22.248272264Z  [2021-02-17T20:21:22Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:22.351075774Z  [2021-02-17T20:21:22Z INFO  dt_instance] SubAck { pkid: 8, return_codes: [QoS1] }
+2021-02-17T20:21:22.453483602Z  [2021-02-17T20:21:22Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:22.660083093Z  [2021-02-17T20:21:22Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:22.761330943Z  [2021-02-17T20:21:22Z INFO  dt_instance] SubAck { pkid: 9, return_codes: [QoS1] }
+2021-02-17T20:21:22.864758837Z  [2021-02-17T20:21:22Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:23.072919546Z  [2021-02-17T20:21:23Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:23.175930502Z  [2021-02-17T20:21:23Z INFO  dt_instance] SubAck { pkid: 10, return_codes: [QoS1] }
+2021-02-17T20:21:23.277141385Z  [2021-02-17T20:21:23Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:23.483709241Z  [2021-02-17T20:21:23Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:23.587494225Z  [2021-02-17T20:21:23Z INFO  dt_instance] SubAck { pkid: 11, return_codes: [QoS1] }
+2021-02-17T20:21:23.688722171Z  [2021-02-17T20:21:23Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:23.895280460Z  [2021-02-17T20:21:23Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:23.997264565Z  [2021-02-17T20:21:23Z INFO  dt_instance] SubAck { pkid: 12, return_codes: [QoS1] }
+2021-02-17T20:21:24.102023523Z  [2021-02-17T20:21:24Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:24.308695356Z  [2021-02-17T20:21:24Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:24.412199991Z  [2021-02-17T20:21:24Z INFO  dt_instance] SubAck { pkid: 13, return_codes: [QoS1] }
+2021-02-17T20:21:24.513477500Z  [2021-02-17T20:21:24Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:24.719846456Z  [2021-02-17T20:21:24Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:24.822573435Z  [2021-02-17T20:21:24Z INFO  dt_instance] SubAck { pkid: 14, return_codes: [QoS1] }
+2021-02-17T20:21:24.924379529Z  [2021-02-17T20:21:24Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:25.130927971Z  [2021-02-17T20:21:25Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:25.233513699Z  [2021-02-17T20:21:25Z INFO  dt_instance] SubAck { pkid: 15, return_codes: [QoS1] }
+2021-02-17T20:21:25.336177566Z  [2021-02-17T20:21:25Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:25.542075988Z  [2021-02-17T20:21:25Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:25.644068877Z  [2021-02-17T20:21:25Z INFO  dt_instance] SubAck { pkid: 16, return_codes: [QoS1] }
+2021-02-17T20:21:25.747828691Z  [2021-02-17T20:21:25Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:25.953706655Z  [2021-02-17T20:21:25Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:26.056656842Z  [2021-02-17T20:21:26Z INFO  dt_instance] SubAck { pkid: 17, return_codes: [QoS1] }
+2021-02-17T20:21:26.158811230Z  [2021-02-17T20:21:26Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:26.365985259Z  [2021-02-17T20:21:26Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:26.467618390Z  [2021-02-17T20:21:26Z INFO  dt_instance] SubAck { pkid: 18, return_codes: [QoS1] }
+2021-02-17T20:21:26.571164505Z  [2021-02-17T20:21:26Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:26.778491993Z  [2021-02-17T20:21:26Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:26.882356885Z  [2021-02-17T20:21:26Z INFO  dt_instance] SubAck { pkid: 19, return_codes: [QoS1] }
+2021-02-17T20:21:26.984582183Z  [2021-02-17T20:21:26Z ERROR dt_instance] MQTT ERROR: MqttState(Io(Custom { kind: ConnectionAborted, error: "connection closed by peer" }))
+2021-02-17T20:21:27.190666764Z  [2021-02-17T20:21:27Z INFO  dt_instance] Refreshing topics for twin A - Listen to A/+/+
+2021-02-17T20:21:27.293456664Z  [2021-02-17T20:21:27Z INFO  dt_instance] SubAck { pkid: 20, return_codes: [QoS1] }
