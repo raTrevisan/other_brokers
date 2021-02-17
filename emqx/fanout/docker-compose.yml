@@ -35,7 +35,7 @@ services:
       - MQTT_INSTANCE_QOS=1
       - RUST_LOG=info
       - DB_ADDRESS=scylla-db:9042
-      - TWIN_INSTANCE=A/+
+      - TWIN_INSTANCE=A
     networks:
       - default
     restart: always
@@ -56,7 +56,7 @@ services:
       - MQTT_INSTANCE_QOS=1
       - RUST_LOG=info
       - DB_ADDRESS=scylla-db:9042
-      - TWIN_INSTANCE=A/#
+      - TWIN_INSTANCE=A
     networks:
       - default
     restart: always
