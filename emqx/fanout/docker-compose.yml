@@ -1,0 +1,95 @@
+version: '3'
+
+services:
+  client:
+    image: "opendigitaltwin/dt-client-bytes:latest"
+    depends_on:
+      - mqtt-broker
+      - twin
+    environment:
+      - RUST_LOG=info
+      - MQTT_BROKER_ADDRESS=mqtt-broker
+      - MQTT_BROKER_PORT=1883
+      - MQTT_CLIENT_QOS=1
+      - MQTT_CLIENT_BUFFER_BYTE_SIZE=64
+      - MQTT_CLIENT_MESSAGES_TO_SEND=1000
+      - MQTT_CLIENT_MESSAGE_DELAY_MS=67
+      - MQTT_CLIENT_TOPIC=A/B/C
+    networks:
+      - default
+    deploy:
+      replicas: 1
+      placement:    
+        constraints:
+          - node.labels.name==cloud
+    command: dt-client-bytes
+
+  twin:
+    image: "opendigitaltwin/dt-instance:latest"
+    depends_on:
+      - mqtt-broker
+      - scylla-db
+    environment:
+      - MQTT_BROKER_ADDRESS=mqtt-broker
+      - MQTT_BROKER_PORT=1883
+      - MQTT_INSTANCE_QOS=1
+      - RUST_LOG=info
+      - DB_ADDRESS=scylla-db:9042
+      - TWIN_INSTANCE=A/+
+    networks:
+      - default
+    restart: always
+    deploy:
+      placement:    
+        constraints:
+          - node.labels.name==cloud
+    command: dt-instance
+    
+  twin2:
+    image: "opendigitaltwin/dt-instance:latest"
+    depends_on:
+      - mqtt-broker
+      - scylla-db
+    environment:
+      - MQTT_BROKER_ADDRESS=mqtt-broker
+      - MQTT_BROKER_PORT=1883
+      - MQTT_INSTANCE_QOS=1
+      - RUST_LOG=info
+      - DB_ADDRESS=scylla-db:9042
+      - TWIN_INSTANCE=A/#
+    networks:
+      - default
+    restart: always
+    deploy:
+      placement:    
+        constraints:
+          - node.labels.name==cloud
+    command: dt-instance
+
+
+  mqtt-broker:
+    image: "emqx/emqx:latest"
+    environment:
+      - EMQX_NODE__PROCESS_LIMIT=2097153
+      - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
+      - EMQX_MQTT__MAX_PACKET_SIZE=64KB
+    networks:
+      - default
+    restart: always
+    deploy:
+      placement:
+        constraints:
+          - node.labels.name==cloud
+
+  scylla-db:
+    image: scylladb/scylla
+    networks:
+      - default
+    volumes:
+      - /var/lib/scylla:/var/lib/scylla
+    deploy:
+      placement:
+        constraints:
+         - node.labels.name==cloud
+networks:
+  default:
