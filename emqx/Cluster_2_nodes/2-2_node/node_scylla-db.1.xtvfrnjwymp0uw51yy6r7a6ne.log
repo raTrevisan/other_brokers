@@ -113,7 +113,11 @@
 2021-02-24T19:55:43.139067723Z  2021-02-24 19:55:43,138 INFO success: scylla-jmx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
 2021-02-24T19:55:43.139254388Z  2021-02-24 19:55:43,139 INFO success: rsyslog entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
 2021-02-24T19:55:43.139701566Z  2021-02-24 19:55:43,139 INFO success: node-exporter entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+<<<<<<< HEAD
 2021-02-24T19:55:43.153814829Z  Could not load host key: /etc/ssh/ssh_host_ecdsa_key
+=======
+2021-02-24T19:55:43.153814829Z  Could not load host key: /etc/ssh/ssh_host_ecdsa_key
+>>>>>>> b3ecf399b355a3d18941a6a538ed7fcc0c8c36d6
 2021-02-24T19:55:43.605271474Z  Connecting to http://localhost:10000
 2021-02-24T19:55:43.605947153Z  Starting the JMX server
 2021-02-24T19:55:43.932702126Z  INFO  2021-02-24 19:55:43,932 [shard 0] database - Populating Keyspace system_schema

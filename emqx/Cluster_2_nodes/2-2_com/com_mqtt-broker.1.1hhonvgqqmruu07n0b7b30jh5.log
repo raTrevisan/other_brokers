@@ -17,6 +17,7 @@
 2021-02-24T19:15:31.636229848Z  zone.external.max_mqueue_len=0
 2021-02-24T19:15:52.877358995Z  EMQ X Broker 4.2.7 is started successfully!
 2021-02-24T19:15:57.880867498Z  ['2021-02-24T19:15:57Z']:emqx start
+<<<<<<< HEAD
 2021-02-24T19:15:57.882109800Z  Start http:management listener on 8081 successfully.
 2021-02-24T19:15:57.882131195Z  Start http:dashboard listener on 18083 successfully.
 2021-02-24T19:15:57.882142003Z  Start mqtt:tcp listener on 127.0.0.1:11883 successfully.
@@ -26,3 +27,14 @@
 2021-02-24T19:15:57.882182060Z  Start mqtt:wss listener on 0.0.0.0:8084 successfully.
 2021-02-24T19:15:57.882192028Z  EMQ X Broker 4.2.7 is running now!
 2021-02-24T19:15:57.882201787Z  Eshell V10.7.2.6  (abort with ^G)
+=======
+2021-02-24T19:15:57.882109800Z  Start http:management listener on 8081 successfully.
+2021-02-24T19:15:57.882131195Z  Start http:dashboard listener on 18083 successfully.
+2021-02-24T19:15:57.882142003Z  Start mqtt:tcp listener on 127.0.0.1:11883 successfully.
+2021-02-24T19:15:57.882151986Z  Start mqtt:tcp listener on 0.0.0.0:1883 successfully.
+2021-02-24T19:15:57.882161933Z  Start mqtt:ws listener on 0.0.0.0:8083 successfully.
+2021-02-24T19:15:57.882171993Z  Start mqtt:ssl listener on 0.0.0.0:8883 successfully.
+2021-02-24T19:15:57.882182060Z  Start mqtt:wss listener on 0.0.0.0:8084 successfully.
+2021-02-24T19:15:57.882192028Z  EMQ X Broker 4.2.7 is running now!
+2021-02-24T19:15:57.882201787Z  Eshell V10.7.2.6  (abort with ^G)
+>>>>>>> b3ecf399b355a3d18941a6a538ed7fcc0c8c36d6

@@ -130,7 +130,11 @@
 2021-02-24T19:34:34.048408614Z  |          .EBoo+o|
 2021-02-24T19:34:34.048417697Z  |          o*++ooo|
 2021-02-24T19:34:34.048426609Z  +----[SHA256]-----+
+<<<<<<< HEAD
 2021-02-24T19:34:34.063204151Z  Could not load host key: /etc/ssh/ssh_host_ecdsa_key
+=======
+2021-02-24T19:34:34.063204151Z  Could not load host key: /etc/ssh/ssh_host_ecdsa_key
+>>>>>>> b3ecf399b355a3d18941a6a538ed7fcc0c8c36d6
 2021-02-24T19:34:36.608118478Z  Traceback (most recent call last):
 2021-02-24T19:34:36.608152852Z    File "/opt/scylladb/scripts/libexec/scylla-housekeeping", line 208, in <module>
 2021-02-24T19:34:36.608165661Z      args.func(args)
