@@ -1,0 +1,28 @@
+2021-02-24T23:18:37.241994647Z  cluster.discovery=static
+2021-02-24T23:18:37.274951276Z  cluster.discovery=static
+2021-02-24T23:18:37.669996564Z  cluster.static.seeds=broker@emqx_n1.mq.tt, cluster@emqx_n2.mq.tt
+2021-02-24T23:18:37.716066691Z  cluster.static.seeds=broker@emqx_n1.mq.tt, cluster@emqx_n2.mq.tt
+2021-02-24T23:18:38.496663952Z  listener.ssl.external.acceptors=32
+2021-02-24T23:18:38.975750948Z  listener.ssl.external.max_connections=102400
+2021-02-24T23:18:39.429976591Z  listener.tcp.external.acceptors=64
+2021-02-24T23:18:39.852253081Z  listener.tcp.external.max_connections=1024000
+2021-02-24T23:18:40.334316411Z  listener.wss.external.acceptors=16
+2021-02-24T23:18:40.815244454Z  listener.wss.external.max_connections=102400
+2021-02-24T23:18:41.277128312Z  listener.ws.external.acceptors=16
+2021-02-24T23:18:41.731662978Z  listener.ws.external.max_connections=102400
+2021-02-24T23:18:42.288563891Z  mqtt.max_packet_size=64KB
+2021-02-24T23:18:43.622649291Z  node.max_ets_tables=2097152
+2021-02-24T23:18:44.063705538Z  node.max_ports=1048576
+2021-02-24T23:18:44.520186380Z  node.process_limit=2097153
+2021-02-24T23:18:45.581086862Z  zone.external.max_mqueue_len=0
+2021-02-24T23:19:09.182498500Z  EMQ X Broker 4.2.7 is started successfully!
+2021-02-24T23:19:14.185896386Z  ['2021-02-24T23:19:14Z']:emqx start
+2021-02-24T23:19:14.187216644Z  Start http:management listener on 8081 successfully.
+2021-02-24T23:19:14.187258177Z  Start http:dashboard listener on 18083 successfully.
+2021-02-24T23:19:14.187277122Z  Start mqtt:tcp listener on 127.0.0.1:11883 successfully.
+2021-02-24T23:19:14.187293891Z  Start mqtt:tcp listener on 0.0.0.0:1883 successfully.
+2021-02-24T23:19:14.187310083Z  Start mqtt:ws listener on 0.0.0.0:8083 successfully.
+2021-02-24T23:19:14.187326543Z  Start mqtt:ssl listener on 0.0.0.0:8883 successfully.
+2021-02-24T23:19:14.187343099Z  Start mqtt:wss listener on 0.0.0.0:8084 successfully.
+2021-02-24T23:19:14.187359122Z  EMQ X Broker 4.2.7 is running now!
+2021-02-24T23:19:14.187375302Z  Eshell V10.7.2.6  (abort with ^G)
