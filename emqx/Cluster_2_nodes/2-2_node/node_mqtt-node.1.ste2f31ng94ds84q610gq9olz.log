@@ -1,0 +1,48 @@
+2021-02-24T19:55:37.425916463Z  cluster.discovery=static
+2021-02-24T19:55:37.466478683Z  cluster.discovery=static
+2021-02-24T19:55:37.828367765Z  cluster.static.seeds=broker@emqx_n1.mq.tt, cluster@emqx_n2.mq.tt
+2021-02-24T19:55:37.866334146Z  cluster.static.seeds=broker@emqx_n1.mq.tt, cluster@emqx_n2.mq.tt
+2021-02-24T19:55:38.647173009Z  listener.ssl.external.acceptors=32
+2021-02-24T19:55:39.055577512Z  listener.ssl.external.max_connections=102400
+2021-02-24T19:55:39.513699176Z  listener.tcp.external.acceptors=64
+2021-02-24T19:55:39.933088261Z  listener.tcp.external.max_connections=1024000
+2021-02-24T19:55:40.324039861Z  listener.wss.external.acceptors=16
+2021-02-24T19:55:40.722912279Z  listener.wss.external.max_connections=102400
+2021-02-24T19:55:41.102778740Z  listener.ws.external.acceptors=16
+2021-02-24T19:55:41.500048998Z  listener.ws.external.max_connections=102400
+2021-02-24T19:55:41.960102430Z  mqtt.max_packet_size=64KB
+2021-02-24T19:55:43.501692522Z  node.max_ets_tables=2097152
+2021-02-24T19:55:44.011744348Z  node.max_ports=1048576
+2021-02-24T19:55:44.557838614Z  node.process_limit=2097153
+2021-02-24T19:55:45.551426570Z  zone.external.max_mqueue_len=0
+2021-02-24T19:56:07.592378108Z  EMQ X Broker 4.2.7 is started successfully!
+2021-02-24T19:56:12.595708878Z  ['2021-02-24T19:56:12Z']:emqx start
+2021-02-24T19:56:12.596761134Z  Start mqtt:tcp listener on 0.0.0.0:1883 successfully.
+2021-02-24T19:56:12.596793823Z  Start mqtt:ws listener on 0.0.0.0:8083 successfully.
+2021-02-24T19:56:12.596807955Z  Start mqtt:ssl listener on 0.0.0.0:8883 successfully.
+2021-02-24T19:56:12.596820621Z  Start mqtt:wss listener on 0.0.0.0:8084 successfully.
+2021-02-24T19:56:12.596833112Z  EMQ X Broker 4.2.7 is running now!
+2021-02-24T19:56:12.596845395Z  Eshell V10.7.2.6  (abort with ^G)
+2021-02-24T19:56:12.596857814Z  (cluster@emqx_n2.mq.tt)1> 2021-02-24 19:56:10.284 [error] 
+2021-02-24T19:56:12.596871058Z  ** Cannot get connection id for node 'cluster@emqx_n2.mq.tt'
+2021-02-24T19:56:12.596944581Z  
+2021-02-24T19:56:17.597560381Z  (cluster@emqx_n2.mq.tt)1> 2021-02-24 19:56:17.286 [critical] [EMQ X] emqx shutdown for join
+2021-02-24T19:56:17.597600346Z  (cluster@emqx_n2.mq.tt)1> Stop mqtt:tcp listener on 127.0.0.1:11883 successfully.
+2021-02-24T19:56:17.597617120Z  (cluster@emqx_n2.mq.tt)1> Stop mqtt:tcp listener on 0.0.0.0:1883 successfully.
+2021-02-24T19:56:17.597632100Z  (cluster@emqx_n2.mq.tt)1> Stop mqtt:ws listener on 0.0.0.0:8083 successfully.
+2021-02-24T19:56:17.597646637Z  (cluster@emqx_n2.mq.tt)1> Stop mqtt:ssl listener on 0.0.0.0:8883 successfully.
+2021-02-24T19:56:17.597660901Z  (cluster@emqx_n2.mq.tt)1> Stop mqtt:wss listener on 0.0.0.0:8084 successfully.
+2021-02-24T19:56:17.630639602Z  (cluster@emqx_n2.mq.tt)1> ['2021-02-24T19:56:17Z']:emqx not running, waiting for recovery in 20 seconds
+2021-02-24T19:56:21.598138067Z  Starting emqx on node cluster@emqx_n2.mq.tt
+2021-02-24T19:56:22.598614866Z  (cluster@emqx_n2.mq.tt)1> Start http:management listener on 8081 successfully.
+2021-02-24T19:56:22.598668713Z  (cluster@emqx_n2.mq.tt)1> Start http:dashboard listener on 18083 successfully.
+2021-02-24T19:56:22.598689715Z  (cluster@emqx_n2.mq.tt)1> Start mqtt:tcp listener on 127.0.0.1:11883 successfully.
+2021-02-24T19:56:22.598720316Z  (cluster@emqx_n2.mq.tt)1> Start mqtt:tcp listener on 0.0.0.0:1883 successfully.
+2021-02-24T19:56:22.598738606Z  (cluster@emqx_n2.mq.tt)1> Start mqtt:ws listener on 0.0.0.0:8083 successfully.
+2021-02-24T19:56:22.598769429Z  (cluster@emqx_n2.mq.tt)1> Start mqtt:ssl listener on 0.0.0.0:8883 successfully.
+2021-02-24T19:56:22.598786165Z  (cluster@emqx_n2.mq.tt)1> Start mqtt:wss listener on 0.0.0.0:8084 successfully.
+2021-02-24T19:56:22.598802837Z  (cluster@emqx_n2.mq.tt)1> EMQ X Broker 4.2.7 is running now!
+2021-02-24T20:11:22.765354637Z  (cluster@emqx_n2.mq.tt)1> 
+2021-02-24T20:11:22.765428718Z  ===== ALIVE Wed Feb 24 20:11:22 UTC 2021
+2021-02-24T20:26:22.933477803Z  
+2021-02-24T20:26:22.933553206Z  ===== ALIVE Wed Feb 24 20:26:22 UTC 2021
